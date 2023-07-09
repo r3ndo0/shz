@@ -7,12 +7,12 @@ function toArabicNumeral(en: string) {
 </script>
 
 <template>
-  <div class="w-full flex justify-center">
+  <div class="w-full flex justify-center ">
     <div
       class="stepper-wrapper font-bold shadow shadow-gray-300 rounded-lg py-4"
     >
       <div class="stepper-item completed">
-        <div class="step-counter"><IconsCheck /></div>
+        <div class="step-counter"><IconsCheck color='#ffffff'/></div>
         <div class="step-name">شروع</div>
       </div>
       <div class="stepper-item completed">

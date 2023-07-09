@@ -8,6 +8,6 @@
         (لطفا تاریخ مورد نظر خود را انتخاب کنید)
       </span>
     </p>
-    <StepOneToggleButton />
+    <Step1ToggleButton />
   </div>
 </template>

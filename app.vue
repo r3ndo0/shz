@@ -1,5 +1,5 @@
 <template>
-  <div dir="rtl" class="sansX">
+  <div dir="rtl" class="sansx">
     <NuxtLayout>
       <NuxtPage />
     </NuxtLayout>

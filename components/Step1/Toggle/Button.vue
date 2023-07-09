@@ -2,7 +2,7 @@
   <div class="" dir="ltr">
     <Switch
       v-model="enabled"
-      :class="enabled ? 'bg-rose-600' : 'bg-[#08F23C]'"
+      :class="enabled ? 'bg-[#747272]' : 'bg-[#42ED67]'"
       class="relative inline-flex h-[38px] w-[74px] shrink-0 cursor-pointer rounded-full border-2 border-transparent transition-colors duration-200 ease-in-out focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75"
     >
       <span class="sr-only">Use setting</span>

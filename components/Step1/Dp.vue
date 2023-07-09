@@ -5,11 +5,11 @@
     <Listbox v-model="selectedPerson">
       <div class="relative">
         <ListboxButton
-          class="relative w-[200px] cursor-default rounded-lg text-left pl-4 bg-white py-3 shadow-md focus:outline-none focus-visible:border-indigo-500 focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75 focus-visible:ring-offset-2 focus-visible:ring-offset-orange-300 sm:text-sm"
+          class="relative w-[200px] cursor-default rounded-lg text-right pr-4 bg-white py-3 shadow-md focus:outline-none focus-visible:border-indigo-500 focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75 focus-visible:ring-offset-2 focus-visible:ring-offset-orange-300 sm:text-sm"
         >
           <span class="truncate">{{ selectedPerson.name }}</span>
           <span
-            class="pointer-events-none absolute inset-y-0 right-0 flex items-center pr-2"
+            class="pointer-events-none absolute inset-y-0 left-0 flex items-center pr-2"
           >
             <IconsArrowDown />
           </span>
@@ -47,6 +47,7 @@
                   v-if="selected"
                   class="absolute inset-y-0 left-0 flex items-center pl-3 text-amber-600"
                 >
+                <IconsCheck color='#64748b'/>
                 </span>
               </li>
             </ListboxOption>
@@ -69,11 +70,11 @@ import {
 
 const people = [
   { name: "لورم ایپسوم" },
-  { name: "Arlene Mccoy" },
-  { name: "Devon Webb" },
-  { name: "Tom Cook" },
-  { name: "Tanya Fox" },
-  { name: "Hellen Schmidt" },
+  { name: "ایپسوم1" },
+  { name: "ایپسوم2" },
+  { name: "ایپسوم3" },
+  { name: "ایپسوم4" },
+  { name: "ایپسوم5" },
 ];
 const selectedPerson = ref(people[0]);
 </script>
