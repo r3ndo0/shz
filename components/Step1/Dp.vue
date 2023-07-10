@@ -5,7 +5,8 @@
     <Listbox v-model="selectedPerson">
       <div class="relative">
         <ListboxButton
-          class="relative w-[200px] cursor-default rounded-lg text-right pr-4 bg-white py-3 shadow-md focus:outline-none focus-visible:border-indigo-500 focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75 focus-visible:ring-offset-2 focus-visible:ring-offset-orange-300 sm:text-sm"
+        :class="selectedPerson ? 'py-3' : 'py-5'"
+          class="relative w-[200px] cursor-default rounded-lg text-right pr-4 bg-white  shadow-md focus:outline-none focus-visible:border-indigo-500 focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75 focus-visible:ring-offset-2 focus-visible:ring-offset-orange-300 sm:text-sm"
         >
           <span class="truncate">{{ selectedPerson.name }}</span>
           <span
@@ -59,7 +60,7 @@
 </template>
   
   <script setup>
-import { ref } from "vue";
+import {step1Data} from '~/store/firstStep'
 import {
   Listbox,
   ListboxLabel,
@@ -76,6 +77,11 @@ const people = [
   { name: "ایپسوم4" },
   { name: "ایپسوم5" },
 ];
-const selectedPerson = ref(people[0]);
+const {setSubmittedBy} = step1Data()
+const selectedPerson = ref('');
+
+watch(selectedPerson,v => {
+  setSubmittedBy(v.name)
+})
 </script>
   

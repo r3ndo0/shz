@@ -8,6 +8,9 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
+  "overrides": {
+    "vue": "latest"
+  },
   "devDependencies": {
     "@nuxt/devtools": "latest",
     "@nuxtjs/tailwindcss": "^6.8.0",
@@ -17,7 +20,9 @@
     "nuxt-headlessui": "^1.1.4"
   },
   "dependencies": {
+    "@pinia/nuxt": "^0.4.11",
     "@vee-validate/nuxt": "^4.10.6",
+    "pinia": "^2.1.4",
     "vue3-persian-datetime-picker": "^1.2.2",
     "yup": "^1.2.0"
   }

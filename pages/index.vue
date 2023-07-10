@@ -14,7 +14,6 @@
   </div>
 </template>
 <script setup lang="ts">
-
 const stepIdx = ref(1)
 
 const nextOrPrev = (t:string) => {
@@ -25,6 +24,8 @@ const nextOrPrev = (t:string) => {
     stepIdx.value--
   } 
 }
+
+provide('step',stepIdx)
 
 
 </script>

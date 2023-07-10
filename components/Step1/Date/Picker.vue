@@ -1,10 +1,11 @@
 <template>
-  <div class="mb-8 " dir="rtl">
+  <div class="mb-8 " >
     <ClientOnly>
       <div class="max-w-[200px] m-auto">
         <DatePicker
         color="#08C8F2"
-        class="text-end text-[12px]  text-gray-700"
+      
+        class=" text-[12px]  text-gray-700"
         v-model="date"
         range
       ></DatePicker>
@@ -25,10 +26,12 @@
 
 <script setup lang="ts">
 import DatePicker from "vue3-persian-datetime-picker";
-
+import {step1Data} from '~/store/firstStep'
 const date = ref<string[] | string>("");
+const {setDateRange} = step1Data()
 const showSt = ref(false);
 watch(date, (d) => {
   showSt.value = true;
+  setDateRange(d)
 });
 </script>

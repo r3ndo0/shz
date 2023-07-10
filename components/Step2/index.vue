@@ -1,17 +1,13 @@
 <template>
-    <div>
-
-        <h2>step2</h2>
-    <button @click="handler('prev')">prev</button></div>
+  <form class="h-screen flex p-16">
+    <Step2Inputs />
+    <Step2Tree />
+  </form>
 </template>
 <script setup lang="ts">
-const emit = defineEmits(["next-step"])
+const emit = defineEmits(["next-step"]);
 
-
-const handler = (t:string) => {
-  emit('next-step',t)
-}
-
-
-
+const handler = (t: string) => {
+  emit("next-step", t);
+};
 </script>
