@@ -6,7 +6,7 @@
         شما تقاضای خود را برای کدام برنامه بودجه می خواهید ثبت کنید؟
       </p>
     </div>
-    <form class="flex justify-center flex-col items-center">
+    <form class="flex justify-center flex-col items-center accent-sky-400">
       
       <div>
         <div class="my-3">
@@ -49,5 +49,6 @@ input[type="radio"] {
   -ms-transform: scale(1.5); /* IE 9 */
   -webkit-transform: scale(1.5); /* Chrome, Safari, Opera */
   transform: scale(1.5);
+  
 }
 </style>
