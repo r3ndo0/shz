@@ -12,18 +12,22 @@
     "vue": "latest"
   },
   "devDependencies": {
+    "@element-plus/nuxt": "^1.0.5",
     "@nuxt/devtools": "latest",
     "@nuxtjs/tailwindcss": "^6.8.0",
     "@types/node": "^18",
     "autoprefixer": "^10.4.14",
+    "element-plus": "^2.3.7",
     "nuxt": "^3.6.2",
     "nuxt-headlessui": "^1.1.4"
   },
   "dependencies": {
     "@pinia/nuxt": "^0.4.11",
     "@vee-validate/nuxt": "^4.10.6",
+    "@vueuse/core": "^10.2.1",
     "pinia": "^2.1.4",
     "vue3-persian-datetime-picker": "^1.2.2",
+    "vue3-quill": "^0.3.0",
     "yup": "^1.2.0"
   }
 }

@@ -7,7 +7,7 @@
     
     <div class="w-full justify-center items-center flex">
 
-      <button :class="!notifyReq && 'my-8'" class="px-16 py-5 border border-[#FFCC1F] bg-white" >گام بعد</button>
+      <button  class="px-16 py-5 border border-[#FFCC1F] bg-white" >گام بعد</button>
 
     </div>
   </form>

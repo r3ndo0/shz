@@ -1,8 +1,9 @@
 <template>
-    <div class="relative flex gap-2 w-full  flex-col justify-center  p-6 items-start">
+    <div class="relative flex gap-2 flex-col w-full justify-center  p-6 items-start">
         <IconsAsterisk v-show="props.required" class="absolute top-4 right-5"/>
         <label class="px-3 tracking-wide">{{ props.label }}</label>
-        <input class="p-2 w-full rounded-lg"/>
+        <input v-model="value" class="p-2 w-full rounded-lg"/>
+        <p class="h-5">{{ value }}</p>
     </div>
 </template>
 
@@ -14,6 +15,6 @@ interface Props {
     required:boolean
 }
 const props = defineProps<Props>()
-
+const value = ref('')
 
 </script>

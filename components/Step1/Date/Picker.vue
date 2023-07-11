@@ -4,7 +4,7 @@
       <div class="max-w-[200px] m-auto">
         <DatePicker
         color="#08C8F2"
-      
+        :disabled="!notifyReq"
         class=" text-[12px]  text-gray-700"
         v-model="date"
         range
@@ -26,7 +26,11 @@
 
 <script setup lang="ts">
 import DatePicker from "vue3-persian-datetime-picker";
-import {step1Data} from '~/store/firstStep'
+import {step1Data} from '/nuxt/shz/store/firstStep'
+import { storeToRefs } from 'pinia';
+
+const store =step1Data()
+const {notifyReq} = storeToRefs(store)
 const date = ref<string[] | string>("");
 const {setDateRange} = step1Data()
 const showSt = ref(false);
