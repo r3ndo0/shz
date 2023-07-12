@@ -14,7 +14,7 @@
   </div>
 </template>
 <script setup lang="ts">
-const stepIdx = ref(1)
+const stepIdx = ref(2)
 
 const nextOrPrev = (t:string) => {
  

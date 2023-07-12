@@ -1,0 +1,3146 @@
+[
+  {
+    "id": 1,
+    "parentId": null,
+    "categoryName": "فناوری و مهندسی",
+    "nsLevel": 1
+  },
+  {
+    "id": 2,
+    "parentId": null,
+    "categoryName": "مطالعات راهبردی - کلان و علوم انسانی اجتماعی",
+    "nsLevel": 1
+  },
+  {
+    "id": 3,
+    "parentId": 1,
+    "categoryName": "فناوریهای بالادستی",
+    "nsLevel": 2
+  },
+  {
+    "id": 4,
+    "parentId": 1,
+    "categoryName": "ساخت تجهيزات و کاتاليست ها و مواد شيميايي پرمصرف",
+    "nsLevel": 2
+  },
+  {
+    "id": 5,
+    "parentId": 1,
+    "categoryName": "طراحي فرايندها و بهينه سازي توليد",
+    "nsLevel": 2
+  },
+  {
+    "id": 6,
+    "parentId": 1,
+    "categoryName": "انتقال، توزيع و ذخيره سازي",
+    "nsLevel": 2
+  },
+  {
+    "id": 7,
+    "parentId": 1,
+    "categoryName": "مصرف، بهينه سازي و ارتقاء راندمان انرژي",
+    "nsLevel": 2
+  },
+  {
+    "id": 8,
+    "parentId": 1,
+    "categoryName": "محيط زيست, حفاظت صنعتي و سلامت",
+    "nsLevel": 2
+  },
+  {
+    "id": 9,
+    "parentId": 1,
+    "categoryName": "سامانه جامع اندازه گيري و فناوري اطلاعات و ارتباطات",
+    "nsLevel": 2
+  },
+  {
+    "id": 10,
+    "parentId": 2,
+    "categoryName": "مطالعات راهبردی - کلان",
+    "nsLevel": 2
+  },
+  {
+    "id": 11,
+    "parentId": 2,
+    "categoryName": "مدیریت و امور سازمانها در صنعت نفت",
+    "nsLevel": 2
+  },
+  {
+    "id": 12,
+    "parentId": 2,
+    "categoryName": "اقتصاد و تجارت",
+    "nsLevel": 2
+  },
+  {
+    "id": 13,
+    "parentId": 2,
+    "categoryName": "حقوق وسياستگذاری عمومی",
+    "nsLevel": 2
+  },
+  {
+    "id": 14,
+    "parentId": 2,
+    "categoryName": "جامعه شناسي و روانشناسي",
+    "nsLevel": 2
+  },
+  {
+    "id": 15,
+    "parentId": 2,
+    "categoryName": "دیپلماسی انرژی و روابط بين المللی",
+    "nsLevel": 2
+  },
+  {
+    "id": 16,
+    "parentId": 2,
+    "categoryName": "فرهنگ و روابط عمومی",
+    "nsLevel": 2
+  },
+  {
+    "id": 17,
+    "parentId": 3,
+    "categoryName": "اکتشاف",
+    "nsLevel": 3
+  },
+  {
+    "id": 18,
+    "parentId": 3,
+    "categoryName": "مشخصه سازي مخزن",
+    "nsLevel": 3
+  },
+  {
+    "id": 19,
+    "parentId": 3,
+    "categoryName": "حفاری",
+    "nsLevel": 3
+  },
+  {
+    "id": 20,
+    "parentId": 3,
+    "categoryName": "شبيه سازي ديناميكي مخزن",
+    "nsLevel": 3
+  },
+  {
+    "id": 21,
+    "parentId": 3,
+    "categoryName": "تکنولوژی های پيشرفته استخراج،توليد و بهره برداري از مخازن نفت و گاز",
+    "nsLevel": 3
+  },
+  {
+    "id": 22,
+    "parentId": 3,
+    "categoryName": "فناوری های ازدياد برداشت از مخازن نفت و گاز",
+    "nsLevel": 3
+  },
+  {
+    "id": 23,
+    "parentId": 4,
+    "categoryName": "کاتاليست",
+    "nsLevel": 3
+  },
+  {
+    "id": 24,
+    "parentId": 4,
+    "categoryName": "پليمرها و مواد شيميايي پرمصرف",
+    "nsLevel": 3
+  },
+  {
+    "id": 25,
+    "parentId": 4,
+    "categoryName": "تجهيزات حوزه پالايش انتقال و توزيع گاز طبيعي",
+    "nsLevel": 3
+  },
+  {
+    "id": 26,
+    "parentId": 5,
+    "categoryName": "تكنولوژيهاي توليد و بهره برداري نفت و گاز",
+    "nsLevel": 3
+  },
+  {
+    "id": 27,
+    "parentId": 5,
+    "categoryName": "فرآيندهاي پتروشيميايي (پليمری و غير پليمری)",
+    "nsLevel": 3
+  },
+  {
+    "id": 28,
+    "parentId": 5,
+    "categoryName": "فرآيندهاي پالايشگاهي (سوخت ها و مكمل هاي سوخت)",
+    "nsLevel": 3
+  },
+  {
+    "id": 29,
+    "parentId": 5,
+    "categoryName": "نانو مهندسی",
+    "nsLevel": 3
+  },
+  {
+    "id": 30,
+    "parentId": 6,
+    "categoryName": "طراحي و بهينه سازي",
+    "nsLevel": 3
+  },
+  {
+    "id": 31,
+    "parentId": 6,
+    "categoryName": "ذخيره سازي زيرزميني و رو زميني نفت، گاز و فراورده هاي نفتي",
+    "nsLevel": 3
+  },
+  {
+    "id": 32,
+    "parentId": 7,
+    "categoryName": "مديريت انرژي",
+    "nsLevel": 3
+  },
+  {
+    "id": 33,
+    "parentId": 7,
+    "categoryName": "بخش ساختمان",
+    "nsLevel": 3
+  },
+  {
+    "id": 34,
+    "parentId": 7,
+    "categoryName": "بخش حمل و نقل",
+    "nsLevel": 3
+  },
+  {
+    "id": 35,
+    "parentId": 7,
+    "categoryName": "بخش صنعت",
+    "nsLevel": 3
+  },
+  {
+    "id": 36,
+    "parentId": 8,
+    "categoryName": "بهداشت و سلامت",
+    "nsLevel": 3
+  },
+  {
+    "id": 37,
+    "parentId": 8,
+    "categoryName": "حفاظت صنعتي ,ايمني و بازرسي فني",
+    "nsLevel": 3
+  },
+  {
+    "id": 38,
+    "parentId": 8,
+    "categoryName": "محيط زيست",
+    "nsLevel": 3
+  },
+  {
+    "id": 39,
+    "parentId": 8,
+    "categoryName": "اقتصاد HSE وارزشگذاري اقتصادي",
+    "nsLevel": 3
+  },
+  {
+    "id": 40,
+    "parentId": 8,
+    "categoryName": "مديريت ريسک",
+    "nsLevel": 3
+  },
+  {
+    "id": 41,
+    "parentId": 8,
+    "categoryName": "مديريت بحران و پدافند غيرعامل",
+    "nsLevel": 3
+  },
+  {
+    "id": 42,
+    "parentId": 8,
+    "categoryName": "نانو زیست محيطی",
+    "nsLevel": 3
+  },
+  {
+    "id": 43,
+    "parentId": 9,
+    "categoryName": "سيستم هاي اندازه گيري",
+    "nsLevel": 3
+  },
+  {
+    "id": 44,
+    "parentId": 9,
+    "categoryName": "اتوماسيون (سيستم ها و ريزسيستم ها)",
+    "nsLevel": 3
+  },
+  {
+    "id": 45,
+    "parentId": 9,
+    "categoryName": "فناوري اطلاعات",
+    "nsLevel": 3
+  },
+  {
+    "id": 46,
+    "parentId": 10,
+    "categoryName": "آینده پژوهی و تدوین سناریوهای آینده انرژی کشور",
+    "nsLevel": 3
+  },
+  {
+    "id": 47,
+    "parentId": 10,
+    "categoryName": "تدوین راهبرد صنعت نفت در سطح وزارت نفت و شرکت های ملی اصلی چهارگانه (طرح جامع شرکت های ملی نفت، گاز، پتروشيمی و پالایش و",
+    "nsLevel": 3
+  },
+  {
+    "id": 48,
+    "parentId": 10,
+    "categoryName": "طراحی و پياده سازی نظام مدیریت سبد پژوهش و فناوری صنعت نفت",
+    "nsLevel": 3
+  },
+  {
+    "id": 49,
+    "parentId": 10,
+    "categoryName": "طراحی و استقرار نظام مدیریت دانش در سطح وزارت نفت و شرکتهای ملی: نفت، گاز، پتروشيمی و پالایش و پخش",
+    "nsLevel": 3
+  },
+  {
+    "id": 50,
+    "parentId": 10,
+    "categoryName": "طرح جامع بهبود بهره وری و تعالی در صنعت نفت کشور",
+    "nsLevel": 3
+  },
+  {
+    "id": 51,
+    "parentId": 10,
+    "categoryName": "تدوین چارچوب و الگوی دیپلماسی انرژی کشور",
+    "nsLevel": 3
+  },
+  {
+    "id": 52,
+    "parentId": 10,
+    "categoryName": "ترسيم نقشه راه فناوری های صنعت نفت شرکت های ملی اصلی چهارگانه نفت، گاز، پتروشيمی و پالایش و پخش",
+    "nsLevel": 3
+  },
+  {
+    "id": 53,
+    "parentId": 10,
+    "categoryName": "تکميل و ارتقا نظام نوآوری بخشی صنعت نفت",
+    "nsLevel": 3
+  },
+  {
+    "id": 54,
+    "parentId": 10,
+    "categoryName": "طراحی و راه اندازی پایگاه نوآوری صنعت نفت و قطب بندی دانشگاهها، مراکز علمی-پژوهشی و توسعه دهندگان فناوری های مورد نياز",
+    "nsLevel": 3
+  },
+  {
+    "id": 55,
+    "parentId": 10,
+    "categoryName": "تدوین راهبردهای مدیریت منابع انسانی در وزارت نفت و شرکتهای ملی اصلی چهارگانه",
+    "nsLevel": 3
+  },
+  {
+    "id": 56,
+    "parentId": 10,
+    "categoryName": "طرح جامع مطالعات فرهنگی و اجتماعی عسلویه",
+    "nsLevel": 3
+  },
+  {
+    "id": 57,
+    "parentId": 10,
+    "categoryName": "طراحی الگوی خصوصی سازی و پياده سازی سياستهای کلی اصل 44 در صنعت نفت",
+    "nsLevel": 3
+  },
+  {
+    "id": 58,
+    "parentId": 10,
+    "categoryName": "اقتصاد ایران و بخش انرژی و صنعت نفت و گاز",
+    "nsLevel": 3
+  },
+  {
+    "id": 59,
+    "parentId": 10,
+    "categoryName": "جایگاه و نقش صنعت نفت در اقتصاد ایران و برنامه ریزی های ملی و منطقه ای",
+    "nsLevel": 3
+  },
+  {
+    "id": 60,
+    "parentId": 10,
+    "categoryName": "جایگاه و نقش صنعت نفت در تجارت خارجی، تعاملات و تجارت بين المللی ایران در منطقه",
+    "nsLevel": 3
+  },
+  {
+    "id": 61,
+    "parentId": 11,
+    "categoryName": "مدیریت استراتژیک",
+    "nsLevel": 3
+  },
+  {
+    "id": 62,
+    "parentId": 11,
+    "categoryName": "سياستگذاری بازرگانی",
+    "nsLevel": 3
+  },
+  {
+    "id": 63,
+    "parentId": 11,
+    "categoryName": "مدیریت کارآفرینی",
+    "nsLevel": 3
+  },
+  {
+    "id": 64,
+    "parentId": 11,
+    "categoryName": "مدیریت دانش",
+    "nsLevel": 3
+  },
+  {
+    "id": 65,
+    "parentId": 11,
+    "categoryName": "مدیریت تحول و اجرای برنامه های استراتژیک",
+    "nsLevel": 3
+  },
+  {
+    "id": 66,
+    "parentId": 11,
+    "categoryName": "مدیریت و برنامه ریزی استراتژیک",
+    "nsLevel": 3
+  },
+  {
+    "id": 67,
+    "parentId": 11,
+    "categoryName": "مدیریت طرحها و پروژه ها",
+    "nsLevel": 3
+  },
+  {
+    "id": 68,
+    "parentId": 11,
+    "categoryName": "مدیریت استراتژیک شرکتهای نفتی",
+    "nsLevel": 3
+  },
+  {
+    "id": 69,
+    "parentId": 11,
+    "categoryName": "مدیریت استراتژیک تحقيقات بازاریابی و بازاریابی صنعتی",
+    "nsLevel": 3
+  },
+  {
+    "id": 70,
+    "parentId": 11,
+    "categoryName": "تحليل استراتژیهای سازمانهای موفق و ناموفق",
+    "nsLevel": 3
+  },
+  {
+    "id": 71,
+    "parentId": 11,
+    "categoryName": "برنامه ریزی استراتژیک",
+    "nsLevel": 3
+  },
+  {
+    "id": 72,
+    "parentId": 11,
+    "categoryName": "مدیریت استراتژیک ICT",
+    "nsLevel": 3
+  },
+  {
+    "id": 73,
+    "parentId": 11,
+    "categoryName": "تدوین راهبرد توسعه فناوری صنعت نفت ( تدوین استراتژی فناوری صنعت نفت)",
+    "nsLevel": 3
+  },
+  {
+    "id": 74,
+    "parentId": 11,
+    "categoryName": "مدیریت سيستمهای اطلاعاتی مدیريت",
+    "nsLevel": 3
+  },
+  {
+    "id": 75,
+    "parentId": 11,
+    "categoryName": "مدیریت مالی و حسابداری مدیریت",
+    "nsLevel": 3
+  },
+  {
+    "id": 76,
+    "parentId": 11,
+    "categoryName": "سيستمهای اطلاعاتی و ارتباطاتی مدیریت",
+    "nsLevel": 3
+  },
+  {
+    "id": 77,
+    "parentId": 11,
+    "categoryName": "مدیریت بحران",
+    "nsLevel": 3
+  },
+  {
+    "id": 78,
+    "parentId": 11,
+    "categoryName": "مدیریت ریسک",
+    "nsLevel": 3
+  },
+  {
+    "id": 79,
+    "parentId": 11,
+    "categoryName": "طراحی و استقرار مدیریت دانش در شرکت ملی نفت ایران",
+    "nsLevel": 3
+  },
+  {
+    "id": 80,
+    "parentId": 11,
+    "categoryName": "بازنگری وضع موجود و طراحی و استقرار برنامه های بهبود نظام آموزش شرکت ملی نفت ایران",
+    "nsLevel": 3
+  },
+  {
+    "id": 81,
+    "parentId": 11,
+    "categoryName": "طرح بهبود بهره وری نيروی انسانی",
+    "nsLevel": 3
+  },
+  {
+    "id": 82,
+    "parentId": 11,
+    "categoryName": "طرح جامع پدافند غير عامل و مدیریت بحران در مناطق عملياتی",
+    "nsLevel": 3
+  },
+  {
+    "id": 83,
+    "parentId": 11,
+    "categoryName": "طرح تقویت بهره وری و تعالی سازمانی مدیریت و سرمایه های انسانی",
+    "nsLevel": 3
+  },
+  {
+    "id": 84,
+    "parentId": 11,
+    "categoryName": "مدیریت منابع انسانی، بهره وری و تعالی سازمانی",
+    "nsLevel": 3
+  },
+  {
+    "id": 85,
+    "parentId": 11,
+    "categoryName": "مدلها و روشهای تحقيق در مدیریت",
+    "nsLevel": 3
+  },
+  {
+    "id": 86,
+    "parentId": 11,
+    "categoryName": "مدیریت فناوري و نواوري",
+    "nsLevel": 3
+  },
+  {
+    "id": 87,
+    "parentId": 11,
+    "categoryName": "مدیریت طرحهای فناوري و نواوري",
+    "nsLevel": 3
+  },
+  {
+    "id": 88,
+    "parentId": 11,
+    "categoryName": "مدیریت طرحهای توسعه وسرمايه گذاري",
+    "nsLevel": 3
+  },
+  {
+    "id": 89,
+    "parentId": 11,
+    "categoryName": "مدیریت توليد",
+    "nsLevel": 3
+  },
+  {
+    "id": 90,
+    "parentId": 11,
+    "categoryName": "بررسی مسائل نيروی انسانی در صنعت نفت",
+    "nsLevel": 3
+  },
+  {
+    "id": 91,
+    "parentId": 11,
+    "categoryName": "همکاری های بين المللی پيش برنده در حوزه فناوریهای ضروری برای کسب و بومی سازی آن",
+    "nsLevel": 3
+  },
+  {
+    "id": 92,
+    "parentId": 11,
+    "categoryName": "بررسی و حل مسایل مدیریتی و اجتماعی",
+    "nsLevel": 3
+  },
+  {
+    "id": 93,
+    "parentId": 11,
+    "categoryName": "Human Resources Development and Training",
+    "nsLevel": 3
+  },
+  {
+    "id": 94,
+    "parentId": 11,
+    "categoryName": "مدیریت مالی و امور حسابداری",
+    "nsLevel": 3
+  },
+  {
+    "id": 95,
+    "parentId": 11,
+    "categoryName": "حسابداری مدیریت و گزارشگيری مالی",
+    "nsLevel": 3
+  },
+  {
+    "id": 96,
+    "parentId": 11,
+    "categoryName": "حسابرسی",
+    "nsLevel": 3
+  },
+  {
+    "id": 97,
+    "parentId": 12,
+    "categoryName": "اقتصاد نفت و انرژی",
+    "nsLevel": 3
+  },
+  {
+    "id": 98,
+    "parentId": 12,
+    "categoryName": "اقتصاد صنعتی",
+    "nsLevel": 3
+  },
+  {
+    "id": 99,
+    "parentId": 12,
+    "categoryName": "اقتصاد انرژی (بهينه سازی انرژی)",
+    "nsLevel": 3
+  },
+  {
+    "id": 100,
+    "parentId": 12,
+    "categoryName": "ارزیابی اقتصادی طرحها",
+    "nsLevel": 3
+  },
+  {
+    "id": 101,
+    "parentId": 12,
+    "categoryName": "بازارها و بورسهای نفتی- منطقه ای و فرا منطقه ای",
+    "nsLevel": 3
+  },
+  {
+    "id": 102,
+    "parentId": 12,
+    "categoryName": "بازاریابی مالی و روشهای تامين مالی در صنعت نفت",
+    "nsLevel": 3
+  },
+  {
+    "id": 103,
+    "parentId": 12,
+    "categoryName": "حقوق بازرگانی در صنعت نفت",
+    "nsLevel": 3
+  },
+  {
+    "id": 104,
+    "parentId": 12,
+    "categoryName": "بازاریابی بين المللی فرآورده های صنعت نفت",
+    "nsLevel": 3
+  },
+  {
+    "id": 105,
+    "parentId": 12,
+    "categoryName": "تجاری سازی فناور یها در صنعت نفت",
+    "nsLevel": 3
+  },
+  {
+    "id": 106,
+    "parentId": 12,
+    "categoryName": "مطالبات بازار در صنعت نفت",
+    "nsLevel": 3
+  },
+  {
+    "id": 107,
+    "parentId": 12,
+    "categoryName": "نقش صنعت نفت واقتصاد نفت در اقتصاد کلان کشور",
+    "nsLevel": 3
+  },
+  {
+    "id": 108,
+    "parentId": 12,
+    "categoryName": "بهينه سازی عملکرد چند گانه صنعت نفت در اقتصاد کلان",
+    "nsLevel": 3
+  },
+  {
+    "id": 109,
+    "parentId": 12,
+    "categoryName": "الگوی اقتصادی صنعت نفت به عنوان موتور توسعه اقتصادی",
+    "nsLevel": 3
+  },
+  {
+    "id": 110,
+    "parentId": 12,
+    "categoryName": "گذار به اقتصاد غير نفتی از طریق صنعت نفت",
+    "nsLevel": 3
+  },
+  {
+    "id": 111,
+    "parentId": 12,
+    "categoryName": "استفاده از موقعيت ممتاز ایران در تجارت بين المللی انرژی بخصوص بازار گاز",
+    "nsLevel": 3
+  },
+  {
+    "id": 112,
+    "parentId": 12,
+    "categoryName": "نظام تخصيص بهينه منابع سرمایه ای به پروژه های نفت و گاز",
+    "nsLevel": 3
+  },
+  {
+    "id": 113,
+    "parentId": 12,
+    "categoryName": "مدیریت یکپارچه مخازن به منظور حداکثر بهره دهی اقتصادی بلند مدت",
+    "nsLevel": 3
+  },
+  {
+    "id": 114,
+    "parentId": 12,
+    "categoryName": "بازارها و مجامع بين المللی انرژی",
+    "nsLevel": 3
+  },
+  {
+    "id": 115,
+    "parentId": 12,
+    "categoryName": "کنترل آثار تورمی و بيماری هلندی نفت در اقتصاد کلان",
+    "nsLevel": 3
+  },
+  {
+    "id": 116,
+    "parentId": 12,
+    "categoryName": "نظام مدیریت بهينه دارائيهای نفت و گاز",
+    "nsLevel": 3
+  },
+  {
+    "id": 117,
+    "parentId": 13,
+    "categoryName": "حقوق انرژی و نفت",
+    "nsLevel": 3
+  },
+  {
+    "id": 118,
+    "parentId": 13,
+    "categoryName": "حقوق محيط زیست",
+    "nsLevel": 3
+  },
+  {
+    "id": 119,
+    "parentId": 13,
+    "categoryName": "حقوق اداری",
+    "nsLevel": 3
+  },
+  {
+    "id": 120,
+    "parentId": 13,
+    "categoryName": "حقوق و فناوریهای نوین",
+    "nsLevel": 3
+  },
+  {
+    "id": 121,
+    "parentId": 13,
+    "categoryName": "طرح مطالعات و تعيين رژیم حقوقی ميادین مشترک نفت و گاز",
+    "nsLevel": 3
+  },
+  {
+    "id": 122,
+    "parentId": 13,
+    "categoryName": "حقوق مالکيتهای فکری",
+    "nsLevel": 3
+  },
+  {
+    "id": 123,
+    "parentId": 13,
+    "categoryName": "حقوق پژوهش",
+    "nsLevel": 3
+  },
+  {
+    "id": 124,
+    "parentId": 13,
+    "categoryName": "ابعاد حقوقی قراردادهای حمل و نقل",
+    "nsLevel": 3
+  },
+  {
+    "id": 125,
+    "parentId": 13,
+    "categoryName": "حقوق محيط زیست در صنعت نفت",
+    "nsLevel": 3
+  },
+  {
+    "id": 126,
+    "parentId": 13,
+    "categoryName": "حقوق روابط کار در صنعت نفت",
+    "nsLevel": 3
+  },
+  {
+    "id": 127,
+    "parentId": 13,
+    "categoryName": "مسائل حقوقی مناطق آزاد و ویژه تجاری-صنعتی صنعت نفت",
+    "nsLevel": 3
+  },
+  {
+    "id": 128,
+    "parentId": 13,
+    "categoryName": "قانون مدیریت خدمات کشوری و ارتباط با صنعت",
+    "nsLevel": 3
+  },
+  {
+    "id": 129,
+    "parentId": 13,
+    "categoryName": "حقوق دریا در حوزه های مرتبط با صنعت نفت",
+    "nsLevel": 3
+  },
+  {
+    "id": 130,
+    "parentId": 13,
+    "categoryName": "سند چشم انداز جمهوری اسلامی ایران در بخش نفت و گاز",
+    "nsLevel": 3
+  },
+  {
+    "id": 131,
+    "parentId": 13,
+    "categoryName": "حق توسعه متوازن و پایدار در مناطق نفت خيز",
+    "nsLevel": 3
+  },
+  {
+    "id": 132,
+    "parentId": 13,
+    "categoryName": "کاربرد آمایش سرزمين در صنعت نفت",
+    "nsLevel": 3
+  },
+  {
+    "id": 133,
+    "parentId": 13,
+    "categoryName": "تحليل جایگاه و نقش صنعت در توسعه ملی",
+    "nsLevel": 3
+  },
+  {
+    "id": 134,
+    "parentId": 13,
+    "categoryName": "تحليل رابطه دولت و صنعت نفت در زمانهای گذشته، حال و آینده",
+    "nsLevel": 3
+  },
+  {
+    "id": 135,
+    "parentId": 13,
+    "categoryName": "نقش بالقوه مناطق آزاد و ویژه در توسعه صنایع نفت، گاز و پتروشيمی",
+    "nsLevel": 3
+  },
+  {
+    "id": 136,
+    "parentId": 13,
+    "categoryName": "حقوق قراردادها (قراردادهای داخلی)",
+    "nsLevel": 3
+  },
+  {
+    "id": 137,
+    "parentId": 13,
+    "categoryName": "حقوق معاهدات بين المللی",
+    "nsLevel": 3
+  },
+  {
+    "id": 138,
+    "parentId": 13,
+    "categoryName": "سير تحول و اصلاح اساسنامه قانونی شرکت ملی نفت ایران",
+    "nsLevel": 3
+  },
+  {
+    "id": 139,
+    "parentId": 14,
+    "categoryName": "جامعه شناسی سازمان",
+    "nsLevel": 3
+  },
+  {
+    "id": 140,
+    "parentId": 14,
+    "categoryName": "مردم شناسی مناطق نفت خيز",
+    "nsLevel": 3
+  },
+  {
+    "id": 141,
+    "parentId": 14,
+    "categoryName": "روان شناسی صنعتی",
+    "nsLevel": 3
+  },
+  {
+    "id": 142,
+    "parentId": 15,
+    "categoryName": "طرح مطالعات تطبيقی بين المللی در زمينه شناخت و مقایسه و ارزیابی دیپلماسی انرژی کشورهای عضو اوپک",
+    "nsLevel": 3
+  },
+  {
+    "id": 143,
+    "parentId": 15,
+    "categoryName": "طرح مطالعات تطبيقی بين المللی در زمينه شناخت و مقایسه و ارزیابی دیپلماسی انرژی کشورهای نفتی صنعتی غير اوپک",
+    "nsLevel": 3
+  },
+  {
+    "id": 144,
+    "parentId": 15,
+    "categoryName": "طرح مطالعات تطبيقی بين المللی در زمينه شناخت و مقایسه و ارزیابی دیپلماسی انرژی کشورهای صنعتی عمده مصرف کننده نفت شامل ژاپن،",
+    "nsLevel": 3
+  },
+  {
+    "id": 145,
+    "parentId": 15,
+    "categoryName": "بررسی نقش انرژی در تحکيم توسعه روابط بين الملل",
+    "nsLevel": 3
+  },
+  {
+    "id": 146,
+    "parentId": 15,
+    "categoryName": "تقویت جایگاه کشور در مجامع بين المللی",
+    "nsLevel": 3
+  },
+  {
+    "id": 147,
+    "parentId": 15,
+    "categoryName": "بررسی ابزار بين المللی و دیپلماسی برای تقویت بخش انرژی",
+    "nsLevel": 3
+  },
+  {
+    "id": 148,
+    "parentId": 15,
+    "categoryName": "شناخت مخازن استراتژیک و تاکتيکی",
+    "nsLevel": 3
+  },
+  {
+    "id": 149,
+    "parentId": 15,
+    "categoryName": "شناخت نقاط ضعف و قوت بازیگران عرصه های دیپلماسی انرژی",
+    "nsLevel": 3
+  },
+  {
+    "id": 150,
+    "parentId": 16,
+    "categoryName": "بررسی و تجزیه و تحليل فرهنگی-اجتماعی الگوی مصرف انرژی در کشور",
+    "nsLevel": 3
+  },
+  {
+    "id": 151,
+    "parentId": 16,
+    "categoryName": "نفت و فرهنگ",
+    "nsLevel": 3
+  },
+  {
+    "id": 152,
+    "parentId": 16,
+    "categoryName": "فرهنگ و توسعه در صنعت نفت",
+    "nsLevel": 3
+  },
+  {
+    "id": 153,
+    "parentId": 16,
+    "categoryName": "طرح جامع سرمایه گذاری فرهنگی-اجتماعی صنعت نفت در کل کشو، مناطق نفت خيز، سایر مناطق و مناطق محروم",
+    "nsLevel": 3
+  },
+  {
+    "id": 154,
+    "parentId": 16,
+    "categoryName": "تدوین روشهای مطلوب و تاثيرگذار آموزش و تبليغات به منظور فرهنگ سازی مصرف صحيح انرژی",
+    "nsLevel": 3
+  },
+  {
+    "id": 155,
+    "parentId": 16,
+    "categoryName": "طرح جامع گردشگری در صنعت نفت",
+    "nsLevel": 3
+  },
+  {
+    "id": 156,
+    "parentId": 16,
+    "categoryName": "بررسي نقش روابط عمومي در فرايند توسعه جامعه",
+    "nsLevel": 3
+  },
+  {
+    "id": 157,
+    "parentId": 16,
+    "categoryName": "ارتقاء جايگاه تشكيلاتي روابط عمومي در وزارت نفت",
+    "nsLevel": 3
+  },
+  {
+    "id": 158,
+    "parentId": 17,
+    "categoryName": "ارزيابي حوضه هاي رسوبي",
+    "nsLevel": 4
+  },
+  {
+    "id": 159,
+    "parentId": 17,
+    "categoryName": "اآتشافات زمين شناسي و لرزه اي",
+    "nsLevel": 4
+  },
+  {
+    "id": 160,
+    "parentId": 17,
+    "categoryName": "مطالعات سيستم هاي هيدروآربوري",
+    "nsLevel": 4
+  },
+  {
+    "id": 161,
+    "parentId": 17,
+    "categoryName": "ارزيابي و مدیریت عدم قطعيت و ريسك",
+    "nsLevel": 4
+  },
+  {
+    "id": 162,
+    "parentId": 18,
+    "categoryName": "مطالعات زمين شناسي و مدل سازي جامع استاتيک مخزن",
+    "nsLevel": 4
+  },
+  {
+    "id": 163,
+    "parentId": 18,
+    "categoryName": "مطالعات ژئوفيزيك",
+    "nsLevel": 4
+  },
+  {
+    "id": 164,
+    "parentId": 18,
+    "categoryName": "مطالعات ژئوشيمي",
+    "nsLevel": 4
+  },
+  {
+    "id": 165,
+    "parentId": 18,
+    "categoryName": "مطالعات چاه پيمايي (پتروفيزيك)",
+    "nsLevel": 4
+  },
+  {
+    "id": 166,
+    "parentId": 18,
+    "categoryName": "مطالعات ژئومكانيكي",
+    "nsLevel": 4
+  },
+  {
+    "id": 167,
+    "parentId": 18,
+    "categoryName": "مطالعات آزمايشگاهي سيال",
+    "nsLevel": 4
+  },
+  {
+    "id": 168,
+    "parentId": 18,
+    "categoryName": "مطالعات آزمایشگاهی سنگ مخزن",
+    "nsLevel": 4
+  },
+  {
+    "id": 169,
+    "parentId": 19,
+    "categoryName": "تكنولوژي وفناوريهاي نوين حفاري",
+    "nsLevel": 4
+  },
+  {
+    "id": 170,
+    "parentId": 19,
+    "categoryName": "تكنولوژي نانو وحفاري",
+    "nsLevel": 4
+  },
+  {
+    "id": 171,
+    "parentId": 19,
+    "categoryName": "حفاري و تكميل هوشمند چاهها",
+    "nsLevel": 4
+  },
+  {
+    "id": 172,
+    "parentId": 19,
+    "categoryName": "مكانيك سنگ و بهبود مهندسي حفاري چاهها",
+    "nsLevel": 4
+  },
+  {
+    "id": 173,
+    "parentId": 19,
+    "categoryName": "بهبود و بهينه سازي برنامه ريزي حفر و تعمير چاهها",
+    "nsLevel": 4
+  },
+  {
+    "id": 174,
+    "parentId": 19,
+    "categoryName": "مشكلات حفاري و روشهاي نوين آنترل",
+    "nsLevel": 4
+  },
+  {
+    "id": 175,
+    "parentId": 19,
+    "categoryName": "مكانيزمهاي مختلف آسيب سازند طي عمليات حفاري ميادين",
+    "nsLevel": 4
+  },
+  {
+    "id": 176,
+    "parentId": 19,
+    "categoryName": "افزايه هاي نوين گل سيمان و سيالات حفاري",
+    "nsLevel": 4
+  },
+  {
+    "id": 177,
+    "parentId": 19,
+    "categoryName": "حفاري و انگيزش و اسيدآاري چاهها",
+    "nsLevel": 4
+  },
+  {
+    "id": 178,
+    "parentId": 20,
+    "categoryName": "ساخت مدل ديناميكي مخزن BLACK OIL",
+    "nsLevel": 4
+  },
+  {
+    "id": 179,
+    "parentId": 20,
+    "categoryName": "شبيه سازي ترکيبي COMPOSITIONAL",
+    "nsLevel": 4
+  },
+  {
+    "id": 180,
+    "parentId": 20,
+    "categoryName": " شبيه سازي مدل حرارتي THERMAL RESERVOIR SIMULATOR",
+    "nsLevel": 4
+  },
+  {
+    "id": 181,
+    "parentId": 21,
+    "categoryName": "بررسي و آناليز روشهاي توليد نفت و گاز",
+    "nsLevel": 4
+  },
+  {
+    "id": 182,
+    "parentId": 21,
+    "categoryName": "چاه هوشمند",
+    "nsLevel": 4
+  },
+  {
+    "id": 183,
+    "parentId": 21,
+    "categoryName": "آزمايشات چاه",
+    "nsLevel": 4
+  },
+  {
+    "id": 184,
+    "parentId": 21,
+    "categoryName": "فرازآوري مصنوعي",
+    "nsLevel": 4
+  },
+  {
+    "id": 185,
+    "parentId": 21,
+    "categoryName": "مديريت بهره وري چاه",
+    "nsLevel": 4
+  },
+  {
+    "id": 186,
+    "parentId": 21,
+    "categoryName": "مديريت توليد آب و گاز ناخواسته",
+    "nsLevel": 4
+  },
+  {
+    "id": 187,
+    "parentId": 21,
+    "categoryName": "آسفالتين",
+    "nsLevel": 4
+  },
+  {
+    "id": 188,
+    "parentId": 21,
+    "categoryName": "فرايندهاي جداسازي واحدهاي بهره برداري",
+    "nsLevel": 4
+  },
+  {
+    "id": 189,
+    "parentId": 21,
+    "categoryName": "نانو فيلتر و نانو غشاء",
+    "nsLevel": 4
+  },
+  {
+    "id": 190,
+    "parentId": 22,
+    "categoryName": "تزريق آب به مخزن جهت تثبيت فشار",
+    "nsLevel": 4
+  },
+  {
+    "id": 191,
+    "parentId": 22,
+    "categoryName": "تزريق گاز به کلاهك گازي جهت تثبيت فشار",
+    "nsLevel": 4
+  },
+  {
+    "id": 192,
+    "parentId": 22,
+    "categoryName": "تزريق گاز به صورت امتزاجي",
+    "nsLevel": 4
+  },
+  {
+    "id": 193,
+    "parentId": 22,
+    "categoryName": "تزريق امتزاجي گاز",
+    "nsLevel": 4
+  },
+  {
+    "id": 194,
+    "parentId": 22,
+    "categoryName": "تزريق مواد شيميايي",
+    "nsLevel": 4
+  },
+  {
+    "id": 195,
+    "parentId": 22,
+    "categoryName": "روشهاي گرمايي جهت ازدياد برداشت از مخازن نفت سنگين",
+    "nsLevel": 4
+  },
+  {
+    "id": 196,
+    "parentId": 22,
+    "categoryName": "روشهاي ميكربي",
+    "nsLevel": 4
+  },
+  {
+    "id": 197,
+    "parentId": 22,
+    "categoryName": "تزريق متناوب سيال هاي مختلف",
+    "nsLevel": 4
+  },
+  {
+    "id": 198,
+    "parentId": 22,
+    "categoryName": "تكنولوژيهاي کاهش گاز بالشتكي در مخزن",
+    "nsLevel": 4
+  },
+  {
+    "id": 199,
+    "parentId": 22,
+    "categoryName": "افزايش برداشت از طريق مطالعات ميداني به منظور افزايش تعداد چاهها",
+    "nsLevel": 4
+  },
+  {
+    "id": 200,
+    "parentId": 17,
+    "categoryName": "کاتاليست ها و محصولات پليمري",
+    "nsLevel": 4
+  },
+  {
+    "id": 201,
+    "parentId": 17,
+    "categoryName": "کاتاليستها و محصولات غير پليمري",
+    "nsLevel": 4
+  },
+  {
+    "id": 202,
+    "parentId": 17,
+    "categoryName": "جاذبهاي مصرفي",
+    "nsLevel": 4
+  },
+  {
+    "id": 203,
+    "parentId": 17,
+    "categoryName": "بازيافت کاتاليستهاي مستعمل",
+    "nsLevel": 4
+  },
+  {
+    "id": 204,
+    "parentId": 17,
+    "categoryName": "فرايندهاي احيا کاتاليست در بيرون راکتور",
+    "nsLevel": 4
+  },
+  {
+    "id": 205,
+    "parentId": 17,
+    "categoryName": "دي متيل اتر و کليه کاتاليستهاي هيدروژن زدايي",
+    "nsLevel": 4
+  },
+  {
+    "id": 206,
+    "parentId": 17,
+    "categoryName": "نانو کاتاليست",
+    "nsLevel": 4
+  },
+  {
+    "id": 207,
+    "parentId": 18,
+    "categoryName": "پلي پروپيلن",
+    "nsLevel": 4
+  },
+  {
+    "id": 208,
+    "parentId": 18,
+    "categoryName": "پلي اتيلن",
+    "nsLevel": 4
+  },
+  {
+    "id": 209,
+    "parentId": 18,
+    "categoryName": "پلي اتيلن ترفتالات",
+    "nsLevel": 4
+  },
+  {
+    "id": 210,
+    "parentId": 18,
+    "categoryName": "پلي وينيل آلرايد",
+    "nsLevel": 4
+  },
+  {
+    "id": 211,
+    "parentId": 18,
+    "categoryName": "پلي استايرن",
+    "nsLevel": 4
+  },
+  {
+    "id": 212,
+    "parentId": 18,
+    "categoryName": "اسيد استيك",
+    "nsLevel": 4
+  },
+  {
+    "id": 213,
+    "parentId": 18,
+    "categoryName": "وينيل استات مونومر",
+    "nsLevel": 4
+  },
+  {
+    "id": 214,
+    "parentId": 18,
+    "categoryName": "آروماتيك ها",
+    "nsLevel": 4
+  },
+  {
+    "id": 215,
+    "parentId": 18,
+    "categoryName": "متانول",
+    "nsLevel": 4
+  },
+  {
+    "id": 216,
+    "parentId": 18,
+    "categoryName": "آمونياك",
+    "nsLevel": 4
+  },
+  {
+    "id": 217,
+    "parentId": 18,
+    "categoryName": "متيل دي اتانول آمين و متيل دي اتانول آمين فعال شده",
+    "nsLevel": 4
+  },
+  {
+    "id": 218,
+    "parentId": 18,
+    "categoryName": "ماده بودار آننده گاز طبيعي",
+    "nsLevel": 4
+  },
+  {
+    "id": 219,
+    "parentId": 18,
+    "categoryName": "اترهاي سنگين",
+    "nsLevel": 4
+  },
+  {
+    "id": 220,
+    "parentId": 18,
+    "categoryName": "اتيلن-پروپيلن",
+    "nsLevel": 4
+  },
+  {
+    "id": 221,
+    "parentId": 18,
+    "categoryName": null,
+    "nsLevel": 4
+  },
+  {
+    "id": 222,
+    "parentId": 18,
+    "categoryName": "نانو کامپوزیت",
+    "nsLevel": 4
+  },
+  {
+    "id": 223,
+    "parentId": 19,
+    "categoryName": "ارتقا در زمينه روشهاي نشت يابي",
+    "nsLevel": 4
+  },
+  {
+    "id": 224,
+    "parentId": 19,
+    "categoryName": "ارتقا توانمندي در زمينه طراحي مهندسي و بهره برداري خطوط لوله جديد و ايستگاهها",
+    "nsLevel": 4
+  },
+  {
+    "id": 225,
+    "parentId": 19,
+    "categoryName": "روشهاي نوين احداث و نصب خطوط لوله",
+    "nsLevel": 4
+  },
+  {
+    "id": 226,
+    "parentId": 19,
+    "categoryName": " نانو جاذب",
+    "nsLevel": 4
+  },
+  {
+    "id": 227,
+    "parentId": 17,
+    "categoryName": "افزايش بهره دهي productivity",
+    "nsLevel": 4
+  },
+  {
+    "id": 228,
+    "parentId": 17,
+    "categoryName": "ايجاد شكافت مصنوعي",
+    "nsLevel": 4
+  },
+  {
+    "id": 229,
+    "parentId": 17,
+    "categoryName": "طراحي حفاري چاه",
+    "nsLevel": 4
+  },
+  {
+    "id": 230,
+    "parentId": 17,
+    "categoryName": "طراحي تكميل چاه",
+    "nsLevel": 4
+  },
+  {
+    "id": 231,
+    "parentId": 17,
+    "categoryName": "طراحي چا ههاي هوشمند",
+    "nsLevel": 4
+  },
+  {
+    "id": 232,
+    "parentId": 17,
+    "categoryName": "فرازآوري مصنوعي",
+    "nsLevel": 4
+  },
+  {
+    "id": 233,
+    "parentId": 17,
+    "categoryName": "روش هاي نگهداري چاه هاي توليدي و تزريقي (Well Integrity)",
+    "nsLevel": 4
+  },
+  {
+    "id": 234,
+    "parentId": 17,
+    "categoryName": "ارتقاء کيفيت نفت خام",
+    "nsLevel": 4
+  },
+  {
+    "id": 235,
+    "parentId": 17,
+    "categoryName": "مخازن گاز ميعاني",
+    "nsLevel": 4
+  },
+  {
+    "id": 236,
+    "parentId": 17,
+    "categoryName": "انتقال نفت خام های سنگين و پارافينی",
+    "nsLevel": 4
+  },
+  {
+    "id": 237,
+    "parentId": 17,
+    "categoryName": "مخازن گاز با نفوذ پذيري پايين",
+    "nsLevel": 4
+  },
+  {
+    "id": 238,
+    "parentId": 17,
+    "categoryName": "پايش هاي ته چاهي",
+    "nsLevel": 4
+  },
+  {
+    "id": 239,
+    "parentId": 17,
+    "categoryName": "سولفورزدايي و شيرين سازي نفت و فرآورده هاي نفتي",
+    "nsLevel": 4
+  },
+  {
+    "id": 240,
+    "parentId": 17,
+    "categoryName": "آسفالتين و واکس",
+    "nsLevel": 4
+  },
+  {
+    "id": 241,
+    "parentId": 17,
+    "categoryName": "هيدرات هاي گازي",
+    "nsLevel": 4
+  },
+  {
+    "id": 242,
+    "parentId": 17,
+    "categoryName": "گردآوري و فرآوري داده هاي سيستم هاي توليد",
+    "nsLevel": 4
+  },
+  {
+    "id": 243,
+    "parentId": 17,
+    "categoryName": "مديريت همزمان مخزن (Real-time Reservoir Management)",
+    "nsLevel": 4
+  },
+  {
+    "id": 244,
+    "parentId": 17,
+    "categoryName": "نم زدايي",
+    "nsLevel": 4
+  },
+  {
+    "id": 245,
+    "parentId": 17,
+    "categoryName": "مديريت گازهاي ترش و ساير ناخالصي ها (جیوه)",
+    "nsLevel": 4
+  },
+  {
+    "id": 246,
+    "parentId": 17,
+    "categoryName": "جذب سطحي",
+    "nsLevel": 4
+  },
+  {
+    "id": 247,
+    "parentId": 17,
+    "categoryName": "سيستم های نشت یابی",
+    "nsLevel": 4
+  },
+  {
+    "id": 248,
+    "parentId": 17,
+    "categoryName": "مديريت سيستمهاي جانبي متمرکز utility شامل آب، برق و بخار",
+    "nsLevel": 4
+  },
+  {
+    "id": 249,
+    "parentId": 17,
+    "categoryName": "Production Accounting",
+    "nsLevel": 4
+  },
+  {
+    "id": 250,
+    "parentId": 17,
+    "categoryName": "Dispatching",
+    "nsLevel": 4
+  },
+  {
+    "id": 251,
+    "parentId": 17,
+    "categoryName": "جداسازي ترآيبات با ارزش افزوده بالا",
+    "nsLevel": 4
+  },
+  {
+    "id": 252,
+    "parentId": 17,
+    "categoryName": "بهينه سازي فرايندهاي پالايش نفت و گاز طبيعي",
+    "nsLevel": 4
+  },
+  {
+    "id": 253,
+    "parentId": 17,
+    "categoryName": "بهينه آاوي عملياتي در پالايشگاههاي موجود",
+    "nsLevel": 4
+  },
+  {
+    "id": 254,
+    "parentId": 17,
+    "categoryName": "طراحي و اجراي سيستمهاي پايلوتي",
+    "nsLevel": 4
+  },
+  {
+    "id": 255,
+    "parentId": 17,
+    "categoryName": "انتقال تكنولوژي فرآيندهاي نفت و گاز",
+    "nsLevel": 4
+  },
+  {
+    "id": 256,
+    "parentId": 17,
+    "categoryName": "توليد روانكارهاي مصرف در صنعت نفت ( انواع روغن گريس)",
+    "nsLevel": 4
+  },
+  {
+    "id": 257,
+    "parentId": 17,
+    "categoryName": "توليد افزودنيهاي شيميايي پرمصرف در صنعت نفت",
+    "nsLevel": 4
+  },
+  {
+    "id": 258,
+    "parentId": 17,
+    "categoryName": "فناوري غشا در صنعت نفت",
+    "nsLevel": 4
+  },
+  {
+    "id": 259,
+    "parentId": 17,
+    "categoryName": "توسعه فناوري و مصرف گوگرد",
+    "nsLevel": 4
+  },
+  {
+    "id": 260,
+    "parentId": 17,
+    "categoryName": "توسعه دانش فني حسگرهاي گاز و سامانه هاي نشت يابي",
+    "nsLevel": 4
+  },
+  {
+    "id": 261,
+    "parentId": 17,
+    "categoryName": "فناوري شيرينسازي با استفاده از حلالها و مديريت مصرف انها",
+    "nsLevel": 4
+  },
+  {
+    "id": 262,
+    "parentId": 17,
+    "categoryName": "نانو افزودنی",
+    "nsLevel": 4
+  },
+  {
+    "id": 263,
+    "parentId": 18,
+    "categoryName": "اپوکسي رزين",
+    "nsLevel": 4
+  },
+  {
+    "id": 264,
+    "parentId": 18,
+    "categoryName": "پلي کربنات",
+    "nsLevel": 4
+  },
+  {
+    "id": 265,
+    "parentId": 18,
+    "categoryName": "پلي استايرن",
+    "nsLevel": 4
+  },
+  {
+    "id": 266,
+    "parentId": 18,
+    "categoryName": "پلی ونيل کلراید",
+    "nsLevel": 4
+  },
+  {
+    "id": 267,
+    "parentId": 18,
+    "categoryName": "پلی اتيلن و پلی پروپيلن",
+    "nsLevel": 4
+  },
+  {
+    "id": 268,
+    "parentId": 18,
+    "categoryName": "اکریلو نيتریل بوتادین استایرن",
+    "nsLevel": 4
+  },
+  {
+    "id": 269,
+    "parentId": 18,
+    "categoryName": "پلی اتيلن ترفتالات",
+    "nsLevel": 4
+  },
+  {
+    "id": 270,
+    "parentId": 18,
+    "categoryName": "پلی بوتادین رابر",
+    "nsLevel": 4
+  },
+  {
+    "id": 271,
+    "parentId": 18,
+    "categoryName": "اولفين",
+    "nsLevel": 4
+  },
+  {
+    "id": 272,
+    "parentId": 18,
+    "categoryName": "تبديل گاز به مايع",
+    "nsLevel": 4
+  },
+  {
+    "id": 273,
+    "parentId": 18,
+    "categoryName": "استایرین",
+    "nsLevel": 4
+  },
+  {
+    "id": 274,
+    "parentId": 18,
+    "categoryName": "گاز سنتز",
+    "nsLevel": 4
+  },
+  {
+    "id": 275,
+    "parentId": 18,
+    "categoryName": "وینيل استات",
+    "nsLevel": 4
+  },
+  {
+    "id": 276,
+    "parentId": 18,
+    "categoryName": "تبدیل متانول به پروپيلن",
+    "nsLevel": 4
+  },
+  {
+    "id": 277,
+    "parentId": 18,
+    "categoryName": "اسيد استيک",
+    "nsLevel": 4
+  },
+  {
+    "id": 278,
+    "parentId": 18,
+    "categoryName": "دی هيدروژناسيون پروپان به پروپيلن",
+    "nsLevel": 4
+  },
+  {
+    "id": 279,
+    "parentId": 18,
+    "categoryName": "دی متيل اتر",
+    "nsLevel": 4
+  },
+  {
+    "id": 280,
+    "parentId": 18,
+    "categoryName": "متانول",
+    "nsLevel": 4
+  },
+  {
+    "id": 281,
+    "parentId": 18,
+    "categoryName": "کلر الکالی",
+    "nsLevel": 4
+  },
+  {
+    "id": 282,
+    "parentId": 19,
+    "categoryName": "اختلاط نفت خا مهای مختلف و ميعانات گازي جهت توليد خوراک پالایشگاه ها",
+    "nsLevel": 4
+  },
+  {
+    "id": 283,
+    "parentId": 19,
+    "categoryName": "نمک زدایی خوراک های پالایشگاهی",
+    "nsLevel": 4
+  },
+  {
+    "id": 284,
+    "parentId": 19,
+    "categoryName": "کراکينگ نفت خام و فرآورده های سنگين",
+    "nsLevel": 4
+  },
+  {
+    "id": 285,
+    "parentId": 19,
+    "categoryName": "بهبود کيفيت فرآورده ها شامل تبريد، تقطير، استخراج، غشايي و جذب و دفع",
+    "nsLevel": 4
+  },
+  {
+    "id": 286,
+    "parentId": 19,
+    "categoryName": "سوخت هاي با منشأ زيست توده",
+    "nsLevel": 4
+  },
+  {
+    "id": 287,
+    "parentId": 19,
+    "categoryName": "سوخت هاي با منشأ فسيلي",
+    "nsLevel": 4
+  },
+  {
+    "id": 288,
+    "parentId": 19,
+    "categoryName": "فرايند ايزومريزاسيون نفتاي سبك",
+    "nsLevel": 4
+  },
+  {
+    "id": 289,
+    "parentId": 19,
+    "categoryName": "فرايند هيدرو آانورژن",
+    "nsLevel": 4
+  },
+  {
+    "id": 290,
+    "parentId": 19,
+    "categoryName": "فرايند ريفرمينگ آاتاليستي پيوسته",
+    "nsLevel": 4
+  },
+  {
+    "id": 291,
+    "parentId": 17,
+    "categoryName": "طراحي و بهينه سازي و راهبري شبكه هاي انتقال و توزيع گاز سراسري",
+    "nsLevel": 4
+  },
+  {
+    "id": 292,
+    "parentId": 17,
+    "categoryName": "ارتقاء توانمندي تكنولوژيك در زمينه طراحي، ساخت و نگهداري و تعميرات توربوآمپرسورها",
+    "nsLevel": 4
+  },
+  {
+    "id": 293,
+    "parentId": 17,
+    "categoryName": "بهينه سازي تجهيزات ايستگاه هاي تقليل فشار",
+    "nsLevel": 4
+  },
+  {
+    "id": 294,
+    "parentId": 17,
+    "categoryName": "بهينه کاوي در خطوط لوله انتقال نفت و گاز",
+    "nsLevel": 4
+  },
+  {
+    "id": 295,
+    "parentId": 18,
+    "categoryName": "تدوين طرح جامع ذخيره سازي",
+    "nsLevel": 4
+  },
+  {
+    "id": 296,
+    "parentId": 18,
+    "categoryName": "مكان يابي و مطالعات امكانسنجي",
+    "nsLevel": 4
+  },
+  {
+    "id": 297,
+    "parentId": 18,
+    "categoryName": "شناسايي و ارتقاء توانمندي تكنولوژيك در روشهاي جديد ذخيره سازي",
+    "nsLevel": 4
+  },
+  {
+    "id": 298,
+    "parentId": 18,
+    "categoryName": "مديريت بهره برداري از مخازن",
+    "nsLevel": 4
+  },
+  {
+    "id": 299,
+    "parentId": 18,
+    "categoryName": "امكانسنجي ذخيره سازي به شكل هاي مختلف ( LNG، ANG و هيدرات)",
+    "nsLevel": 4
+  },
+  {
+    "id": 300,
+    "parentId": 18,
+    "categoryName": "احداث واحد Mini LNG",
+    "nsLevel": 4
+  },
+  {
+    "id": 301,
+    "parentId": 18,
+    "categoryName": "بازیافت لجن های مخازن",
+    "nsLevel": 4
+  },
+  {
+    "id": 302,
+    "parentId": 17,
+    "categoryName": "مميزي انرژي",
+    "nsLevel": 4
+  },
+  {
+    "id": 303,
+    "parentId": 17,
+    "categoryName": "استخراج شاخص هاي مصرف انرژي واحدهاي شيميايي",
+    "nsLevel": 4
+  },
+  {
+    "id": 304,
+    "parentId": 17,
+    "categoryName": "ارتقا راندمان انرژي در حوزه هاي پالايش و انتقال و توزيع نفت و گاز طبيعي",
+    "nsLevel": 4
+  },
+  {
+    "id": 305,
+    "parentId": 17,
+    "categoryName": "مديريت مصرف انرژي در تجهيزات مصرف آننده گاز طبيعي و ساير فراورده هاي سوختي در بخش خانگي و تجاري",
+    "nsLevel": 4
+  },
+  {
+    "id": 306,
+    "parentId": 18,
+    "categoryName": "معماري ساختمان",
+    "nsLevel": 4
+  },
+  {
+    "id": 307,
+    "parentId": 18,
+    "categoryName": "تاسيسات مكانيكي",
+    "nsLevel": 4
+  },
+  {
+    "id": 308,
+    "parentId": 18,
+    "categoryName": "تاسيسات برقي",
+    "nsLevel": 4
+  },
+  {
+    "id": 309,
+    "parentId": 18,
+    "categoryName": "مدلسازي",
+    "nsLevel": 4
+  },
+  {
+    "id": 310,
+    "parentId": 19,
+    "categoryName": "بررسي مدل اقتصادي حمل ونقل سوخت",
+    "nsLevel": 4
+  },
+  {
+    "id": 311,
+    "parentId": 19,
+    "categoryName": "سوخت هاي تجديد ناپذير",
+    "nsLevel": 4
+  },
+  {
+    "id": 312,
+    "parentId": 19,
+    "categoryName": "سوخت هاي تجديد پذير",
+    "nsLevel": 4
+  },
+  {
+    "id": 313,
+    "parentId": 19,
+    "categoryName": "خودرو",
+    "nsLevel": 4
+  },
+  {
+    "id": 314,
+    "parentId": 20,
+    "categoryName": "انتگراسيون حرارتي واحدهاي عملياتي",
+    "nsLevel": 4
+  },
+  {
+    "id": 315,
+    "parentId": 20,
+    "categoryName": "عايق کاري خطوط انتقال و مخازن نفت، گاز و فراورده هاي نفتي",
+    "nsLevel": 4
+  },
+  {
+    "id": 316,
+    "parentId": 20,
+    "categoryName": "کنترل هوشمند سوخت",
+    "nsLevel": 4
+  },
+  {
+    "id": 317,
+    "parentId": 20,
+    "categoryName": "جايگزين نمودن و يا افزايش راندمان تجهيزات انرژي بر",
+    "nsLevel": 4
+  },
+  {
+    "id": 318,
+    "parentId": 20,
+    "categoryName": "کاهش گازهاي ارسالي به مشعل",
+    "nsLevel": 4
+  },
+  {
+    "id": 319,
+    "parentId": 20,
+    "categoryName": "مديريت بخار",
+    "nsLevel": 4
+  },
+  {
+    "id": 320,
+    "parentId": 20,
+    "categoryName": "مميزي انرژي و تعيين شاخص انرژي",
+    "nsLevel": 4
+  },
+  {
+    "id": 321,
+    "parentId": 20,
+    "categoryName": "مديريت فلرينگ",
+    "nsLevel": 4
+  },
+  {
+    "id": 322,
+    "parentId": 20,
+    "categoryName": "نانو عایق و نانو پوشش",
+    "nsLevel": 4
+  },
+  {
+    "id": 323,
+    "parentId": 17,
+    "categoryName": "بهداشت صنعتي",
+    "nsLevel": 4
+  },
+  {
+    "id": 324,
+    "parentId": 17,
+    "categoryName": "بهداشت عمومي",
+    "nsLevel": 4
+  },
+  {
+    "id": 325,
+    "parentId": 17,
+    "categoryName": "بهداشت محيط",
+    "nsLevel": 4
+  },
+  {
+    "id": 326,
+    "parentId": 18,
+    "categoryName": "روش هاي پيشرفته و هوشمند نگهداري و تعميرات",
+    "nsLevel": 4
+  },
+  {
+    "id": 327,
+    "parentId": 18,
+    "categoryName": "افزايش ايمني شبكه گازرساني",
+    "nsLevel": 4
+  },
+  {
+    "id": 328,
+    "parentId": 18,
+    "categoryName": "خوردگي و حفاظت صنعتي و مديريت آن",
+    "nsLevel": 4
+  },
+  {
+    "id": 329,
+    "parentId": 18,
+    "categoryName": "پوششها",
+    "nsLevel": 4
+  },
+  {
+    "id": 330,
+    "parentId": 18,
+    "categoryName": "آناليز و مديريت حوادث",
+    "nsLevel": 4
+  },
+  {
+    "id": 331,
+    "parentId": 18,
+    "categoryName": "آاربرد بتن هاي خاص براي حفاظت از سازه هاي استراتژيك",
+    "nsLevel": 4
+  },
+  {
+    "id": 332,
+    "parentId": 18,
+    "categoryName": "سازه هاي دريايي",
+    "nsLevel": 4
+  },
+  {
+    "id": 333,
+    "parentId": 18,
+    "categoryName": "بررسي رفتار مخازن بتني در مقابل انواع فراورده هاي نفتي",
+    "nsLevel": 4
+  },
+  {
+    "id": 334,
+    "parentId": 19,
+    "categoryName": "مديريت دفع و بازيافت پسماند",
+    "nsLevel": 4
+  },
+  {
+    "id": 335,
+    "parentId": 19,
+    "categoryName": "تصفيه آب و فاضلاب",
+    "nsLevel": 4
+  },
+  {
+    "id": 336,
+    "parentId": 19,
+    "categoryName": "پايش آلاينده ها در محيطهاي آب، خاک و هوا",
+    "nsLevel": 4
+  },
+  {
+    "id": 337,
+    "parentId": 19,
+    "categoryName": "پاکسازي آلودگيهاي محيطي آب، خاک و هوا",
+    "nsLevel": 4
+  },
+  {
+    "id": 338,
+    "parentId": 19,
+    "categoryName": "ارزيابي زيست محيطي (شامل (EIA و ESHIA ، SIA)",
+    "nsLevel": 4
+  },
+  {
+    "id": 339,
+    "parentId": 19,
+    "categoryName": "مديريت محيط زيست شامل: برنامه ريزي راهبردي، تهيه استانداردها، ظرفيت سنجي و مديريت منابع زيست محيطي و اکوسيستمها ، اقتصاد",
+    "nsLevel": 4
+  },
+  {
+    "id": 340,
+    "parentId": 19,
+    "categoryName": "طراحي محيط زيست و فضاي سبز",
+    "nsLevel": 4
+  },
+  {
+    "id": 341,
+    "parentId": 19,
+    "categoryName": "بيوتکنولوژي حفظ منابع زيستي",
+    "nsLevel": 4
+  },
+  {
+    "id": 342,
+    "parentId": 19,
+    "categoryName": "بررسي آلايندگي انواع سوختها(ارتقاء آيفي انواع سوختها , آاهش مصرف,استفاده از سوخت سازگار با محيط زيست)",
+    "nsLevel": 4
+  },
+  {
+    "id": 343,
+    "parentId": 19,
+    "categoryName": "مديريت ضايعات هيدروکربني و روانكارها",
+    "nsLevel": 4
+  },
+  {
+    "id": 344,
+    "parentId": 19,
+    "categoryName": "شبيه سازي و مدلسازي پراکنش آلاينده ها در محيطهاي آب، خاك و هوا",
+    "nsLevel": 4
+  },
+  {
+    "id": 345,
+    "parentId": 19,
+    "categoryName": "مديريت آربن و اجراي پروژه مكانيسم توسعه پاك در صنايع نفت گاز و پتروشيمي",
+    "nsLevel": 4
+  },
+  {
+    "id": 346,
+    "parentId": 17,
+    "categoryName": "ارتقاء و توسعه سيستم هاي اندازه گيري (ترانسميتر، آلتراسونيك، مديريت کاليبراسيون و آنتور هوشمند)",
+    "nsLevel": 4
+  },
+  {
+    "id": 347,
+    "parentId": 17,
+    "categoryName": "نانو حسگر",
+    "nsLevel": 4
+  },
+  {
+    "id": 348,
+    "parentId": 18,
+    "categoryName": "اتوماسيون يكپارچه",
+    "nsLevel": 4
+  },
+  {
+    "id": 349,
+    "parentId": 18,
+    "categoryName": "مديريت هوشمند بحران",
+    "nsLevel": 4
+  },
+  {
+    "id": 350,
+    "parentId": 18,
+    "categoryName": " APC کنترل فرآيند پيشرفته",
+    "nsLevel": 4
+  },
+  {
+    "id": 351,
+    "parentId": 18,
+    "categoryName": "RTO بهينه سازي همزمان فرآيند",
+    "nsLevel": 4
+  },
+  {
+    "id": 352,
+    "parentId": 18,
+    "categoryName": "ارتقا سيستمهاي کنترلي",
+    "nsLevel": 4
+  },
+  {
+    "id": 353,
+    "parentId": 19,
+    "categoryName": "بانك هاي اطلاعاتي",
+    "nsLevel": 4
+  },
+  {
+    "id": 354,
+    "parentId": 19,
+    "categoryName": "فاوا",
+    "nsLevel": 4
+  },
+  {
+    "id": 355,
+    "parentId": 19,
+    "categoryName": "اسكادا",
+    "nsLevel": 4
+  },
+  {
+    "id": 356,
+    "parentId": 19,
+    "categoryName": "مديريت دانش",
+    "nsLevel": 4
+  },
+  {
+    "id": 357,
+    "parentId": 19,
+    "categoryName": "توسعه نرم افزارهاي تخصصي مورد نياز صنعت",
+    "nsLevel": 4
+  },
+  {
+    "id": 358,
+    "parentId": 19,
+    "categoryName": "سامانه هاي ابزار دقيق ايمني",
+    "nsLevel": 4
+  },
+  {
+    "id": 359,
+    "parentId": 158,
+    "categoryName": "ژئوشيمي آلي ارزيابي پتانسيل هيدروآربورزدايي سنگ مولد",
+    "nsLevel": 5
+  },
+  {
+    "id": 360,
+    "parentId": 158,
+    "categoryName": "پيجويي ژئوفيزيكي ثقل سنجي ومغناطيس سنجي و سنجش از دور و ..",
+    "nsLevel": 5
+  },
+  {
+    "id": 361,
+    "parentId": 158,
+    "categoryName": "مدل سازي زمين شناسي حوضه هاي رسوبي",
+    "nsLevel": 5
+  },
+  {
+    "id": 362,
+    "parentId": 159,
+    "categoryName": "مطالعات زمين شناسي سطح الارضي و تحت الارضي",
+    "nsLevel": 5
+  },
+  {
+    "id": 363,
+    "parentId": 159,
+    "categoryName": "روشهاي نوين اآتشافي ذخيره سازي زيرزميني گاز طبيعي (ساختارهاي نمكي و ابخوان)",
+    "nsLevel": 5
+  },
+  {
+    "id": 364,
+    "parentId": 159,
+    "categoryName": "عمليات لرزه اي پردازش و تفسير داده ها",
+    "nsLevel": 5
+  },
+  {
+    "id": 365,
+    "parentId": 160,
+    "categoryName": "مدلسازي ژئو شيميايي- شناخت سيستمهاي نفتي سنگ مولد مخزن و پوش سنگ و فرايندهاي مهاجرت هيدروآربورها و يكپارچه سازي",
+    "nsLevel": 5
+  },
+  {
+    "id": 366,
+    "parentId": 158,
+    "categoryName": "رسوب شناسي آربنات ها (محيط رسوبي دياژنز چينه نگاري سكانسي)",
+    "nsLevel": 5
+  },
+  {
+    "id": 367,
+    "parentId": 158,
+    "categoryName": "رسوب شناسي اواري ( محيط رسوبي دياژنز چينه نگاري سكانسي)",
+    "nsLevel": 5
+  },
+  {
+    "id": 368,
+    "parentId": 158,
+    "categoryName": "ساختماني و تكتنونيك وشكستگي ها",
+    "nsLevel": 5
+  },
+  {
+    "id": 369,
+    "parentId": 158,
+    "categoryName": "چينه و فسيل شناسي",
+    "nsLevel": 5
+  },
+  {
+    "id": 370,
+    "parentId": 158,
+    "categoryName": "ارزيابي زمين شناسي مخزن",
+    "nsLevel": 5
+  },
+  {
+    "id": 371,
+    "parentId": 158,
+    "categoryName": "مدل سازي جامع استاتيك مخازن (ساختماني شكستگي و رسوب شناسي و زمين امار)",
+    "nsLevel": 5
+  },
+  {
+    "id": 372,
+    "parentId": 159,
+    "categoryName": "طراحي و برداشت داده هاي لرزه اي",
+    "nsLevel": 5
+  },
+  {
+    "id": 373,
+    "parentId": 159,
+    "categoryName": "پردازش سيگنال و دادها",
+    "nsLevel": 5
+  },
+  {
+    "id": 374,
+    "parentId": 159,
+    "categoryName": "مطالعات و تفاسير ساختماني",
+    "nsLevel": 5
+  },
+  {
+    "id": 375,
+    "parentId": 159,
+    "categoryName": "چينه شناسي لرزه اي و آناليز رخساره ها",
+    "nsLevel": 5
+  },
+  {
+    "id": 376,
+    "parentId": 159,
+    "categoryName": "مطالعه و مدل سازي لرزه اي شكستگي ها",
+    "nsLevel": 5
+  },
+  {
+    "id": 377,
+    "parentId": 159,
+    "categoryName": "برآورد پارامترها و ارزيابي ژئوفيزيكي مخزن",
+    "nsLevel": 5
+  },
+  {
+    "id": 378,
+    "parentId": 159,
+    "categoryName": "و پايش تغييرات حين توليد مخزن Time Laps  روش هاي",
+    "nsLevel": 5
+  },
+  {
+    "id": 379,
+    "parentId": 159,
+    "categoryName": "فيزيك سنگ و تعييين ضرايب الاستيك",
+    "nsLevel": 5
+  },
+  {
+    "id": 380,
+    "parentId": 159,
+    "categoryName": "انتشار موج و مدل سازي لرزه اي",
+    "nsLevel": 5
+  },
+  {
+    "id": 381,
+    "parentId": 160,
+    "categoryName": "مخزن نفت (مطالعات تطابقي: ارگانو متال ها، ايزوتوپ ها، بيومارآرها و الماسواره ها)",
+    "nsLevel": 5
+  },
+  {
+    "id": 382,
+    "parentId": 160,
+    "categoryName": "مخزن (تاريخچه تغذيه مخازن، انگشت نگاري، اختلاط نفت ها، تسلسل زون هاي مخزني، پايش بهره برداري از مخازن و تطابق ها)",
+    "nsLevel": 5
+  },
+  {
+    "id": 383,
+    "parentId": 160,
+    "categoryName": "ارزيابي انواع دگرسايي منابع هيدروآربوري(تغييرات فازي، تفرق، تفكيك، تبخير، تخريب، آبشويي، گاز شويي، وقايع زمين ساختاري، آسفالت\nزدايي طبيعي، پيرو بيتومن و تار مت ها)",
+    "nsLevel": 5
+  },
+  {
+    "id": 384,
+    "parentId": 160,
+    "categoryName": "مدل سازي ژئوشيميايي ( 1تا 3 بعدي)",
+    "nsLevel": 5
+  },
+  {
+    "id": 385,
+    "parentId": 161,
+    "categoryName": "تفسير نمودارهاي معمول چاه پيمايي full test log",
+    "nsLevel": 5
+  },
+  {
+    "id": 386,
+    "parentId": 161,
+    "categoryName": "تفسير نمودار هاي تصويرگر FMI,FMS,OBMI,UBI",
+    "nsLevel": 5
+  },
+  {
+    "id": 387,
+    "parentId": 161,
+    "categoryName": "مدل سازي تروايي",
+    "nsLevel": 5
+  },
+  {
+    "id": 388,
+    "parentId": 161,
+    "categoryName": "  \nارزيابي نمودار هاي Full Wave Sonic",
+    "nsLevel": 5
+  },
+  {
+    "id": 389,
+    "parentId": 161,
+    "categoryName": "پردازش و تفسير نمودار NMR",
+    "nsLevel": 5
+  },
+  {
+    "id": 390,
+    "parentId": 161,
+    "categoryName": "مدل سازي رخساره هاي الكتريكي",
+    "nsLevel": 5
+  },
+  {
+    "id": 391,
+    "parentId": 161,
+    "categoryName": "بررسي عدم قطعيت و حساسيت پارامترهاي پتروفيزيكي",
+    "nsLevel": 5
+  },
+  {
+    "id": 392,
+    "parentId": 166,
+    "categoryName": "مدل سازي فشارهاي تحت الارضي زمين",
+    "nsLevel": 5
+  },
+  {
+    "id": 393,
+    "parentId": 166,
+    "categoryName": "شكست هيدروليكي در سنگ مخزن",
+    "nsLevel": 5
+  },
+  {
+    "id": 394,
+    "parentId": 166,
+    "categoryName": "تعيين تانسور تنش هاي اصلي در مخزن",
+    "nsLevel": 5
+  },
+  {
+    "id": 395,
+    "parentId": 167,
+    "categoryName": "خواص ترمودیناميکی سيالات مخازن گازی و نفتی",
+    "nsLevel": 5
+  },
+  {
+    "id": 396,
+    "parentId": 167,
+    "categoryName": "رسوب واکس و آسفالتين",
+    "nsLevel": 5
+  },
+  {
+    "id": 397,
+    "parentId": 167,
+    "categoryName": "آشش سطحي",
+    "nsLevel": 5
+  },
+  {
+    "id": 398,
+    "parentId": 167,
+    "categoryName": "اثرات تزریق گاز به سيالات مخازن نفتی",
+    "nsLevel": 5
+  },
+  {
+    "id": 399,
+    "parentId": 167,
+    "categoryName": "تشکيل هيدرات گازی",
+    "nsLevel": 5
+  },
+  {
+    "id": 400,
+    "parentId": 168,
+    "categoryName": "ترشوندگي",
+    "nsLevel": 5
+  },
+  {
+    "id": 401,
+    "parentId": 168,
+    "categoryName": "فشار مويينگي",
+    "nsLevel": 5
+  },
+  {
+    "id": 402,
+    "parentId": 168,
+    "categoryName": "مقاومت الكتريكي",
+    "nsLevel": 5
+  },
+  {
+    "id": 403,
+    "parentId": 168,
+    "categoryName": "نفوذپذیری نسبی",
+    "nsLevel": 5
+  },
+  {
+    "id": 404,
+    "parentId": 168,
+    "categoryName": "فيزیک سنگ",
+    "nsLevel": 5
+  },
+  {
+    "id": 405,
+    "parentId": 168,
+    "categoryName": "مكانيك سنگ",
+    "nsLevel": 5
+  },
+  {
+    "id": 406,
+    "parentId": 158,
+    "categoryName": "Extended Reach Drilling",
+    "nsLevel": 5
+  },
+  {
+    "id": 407,
+    "parentId": 158,
+    "categoryName": "Horizontal directional drilling",
+    "nsLevel": 5
+  },
+  {
+    "id": 408,
+    "parentId": 158,
+    "categoryName": "Deepwater advances",
+    "nsLevel": 5
+  },
+  {
+    "id": 409,
+    "parentId": 158,
+    "categoryName": "Low Cost Sidetracks",
+    "nsLevel": 5
+  },
+  {
+    "id": 410,
+    "parentId": 158,
+    "categoryName": "HP-HT Drilling",
+    "nsLevel": 5
+  },
+  {
+    "id": 411,
+    "parentId": 158,
+    "categoryName": "Multi-Lateral Drilling",
+    "nsLevel": 5
+  },
+  {
+    "id": 412,
+    "parentId": 158,
+    "categoryName": "Coiled Tubing Work- overs",
+    "nsLevel": 5
+  },
+  {
+    "id": 413,
+    "parentId": 158,
+    "categoryName": "Managed Pressure Drilling",
+    "nsLevel": 5
+  },
+  {
+    "id": 414,
+    "parentId": 158,
+    "categoryName": "Trough Tubing Rotary Drilling",
+    "nsLevel": 5
+  },
+  {
+    "id": 415,
+    "parentId": 158,
+    "categoryName": "Laser Drilling",
+    "nsLevel": 5
+  },
+  {
+    "id": 416,
+    "parentId": 158,
+    "categoryName": "Under Balanced Drilling",
+    "nsLevel": 5
+  },
+  {
+    "id": 417,
+    "parentId": 158,
+    "categoryName": "Drilling With Casing",
+    "nsLevel": 5
+  },
+  {
+    "id": 418,
+    "parentId": 158,
+    "categoryName": "Coiled Tubing Drilling",
+    "nsLevel": 5
+  },
+  {
+    "id": 419,
+    "parentId": 159,
+    "categoryName": "نانو در ادوات و رشته هاي حفاري",
+    "nsLevel": 5
+  },
+  {
+    "id": 420,
+    "parentId": 159,
+    "categoryName": "کاربرد نانوتكنولوژي در سيالات حفاري چاههاي هيدروکربني",
+    "nsLevel": 5
+  },
+  {
+    "id": 421,
+    "parentId": 159,
+    "categoryName": "نانو در مشبك کاري و تکميل چاهها",
+    "nsLevel": 5
+  },
+  {
+    "id": 422,
+    "parentId": 159,
+    "categoryName": "نانو تکنولوژی در سيمانهاي حفاري",
+    "nsLevel": 5
+  },
+  {
+    "id": 423,
+    "parentId": 160,
+    "categoryName": "بررسي فرآيندهاي شكست سنگ",
+    "nsLevel": 5
+  },
+  {
+    "id": 424,
+    "parentId": 160,
+    "categoryName": "بررسي فيزيكي تعامل سنگ و ابزار حفاري",
+    "nsLevel": 5
+  },
+  {
+    "id": 425,
+    "parentId": 160,
+    "categoryName": "حسگرها و بررسي و ارزيابي پارامترها",
+    "nsLevel": 5
+  },
+  {
+    "id": 426,
+    "parentId": 160,
+    "categoryName": "مكانيابي و شناسايي موقعيت مته",
+    "nsLevel": 5
+  },
+  {
+    "id": 427,
+    "parentId": 160,
+    "categoryName": "تله متري وثبت اطلاعات بوجود آمده از درون چاه به روش هاي سريع و کارآمد و انتقال به سطح",
+    "nsLevel": 5
+  },
+  {
+    "id": 428,
+    "parentId": 161,
+    "categoryName": "بررسي خواص سنگ هاي ميادين و انتخاب مناسب مته",
+    "nsLevel": 5
+  },
+  {
+    "id": 429,
+    "parentId": 161,
+    "categoryName": "پايداري حفره باز چاهها و مطالعه تنش هاي دروني زمين",
+    "nsLevel": 5
+  },
+  {
+    "id": 430,
+    "parentId": 161,
+    "categoryName": "کاهش ريسك گير لوله ها در عمليات حفاري",
+    "nsLevel": 5
+  },
+  {
+    "id": 431,
+    "parentId": 161,
+    "categoryName": "فشار شكست سنگ ها و لايه ها و محدوده وزن گل تمامي سازندها (Mud Weight envelope) به تفكيك ميادين",
+    "nsLevel": 5
+  },
+  {
+    "id": 432,
+    "parentId": 161,
+    "categoryName": "تهيه مدل مناسب مكانيك زمين (Mechanical earth model)",
+    "nsLevel": 5
+  },
+  {
+    "id": 433,
+    "parentId": 161,
+    "categoryName": "بررسي اثر و جهت چاه بر پايداري ديواره ها",
+    "nsLevel": 5
+  },
+  {
+    "id": 434,
+    "parentId": 166,
+    "categoryName": "ارتقاء بهره وري و کاهش هزينه ها و دکل روزهاي پيش بيني شده",
+    "nsLevel": 5
+  },
+  {
+    "id": 435,
+    "parentId": 166,
+    "categoryName": "طراحي لوله هاي جداري (حذف و بهبود تعداد جداريهاي چاه )",
+    "nsLevel": 5
+  },
+  {
+    "id": 436,
+    "parentId": 166,
+    "categoryName": "کاربردي هيدروليك حفاري",
+    "nsLevel": 5
+  },
+  {
+    "id": 437,
+    "parentId": 166,
+    "categoryName": "بهبود حمل آننده هاي حفاري و افزايش توان مته ها",
+    "nsLevel": 5
+  },
+  {
+    "id": 438,
+    "parentId": 166,
+    "categoryName": "مستند سازي آماري مشكلات مكرر عمليات حفاري",
+    "nsLevel": 5
+  },
+  {
+    "id": 439,
+    "parentId": 167,
+    "categoryName": "کنترل سازندهاي حساس و ناپايدار",
+    "nsLevel": 5
+  },
+  {
+    "id": 440,
+    "parentId": 167,
+    "categoryName": "پايدار سازي ديواره چاهها",
+    "nsLevel": 5
+  },
+  {
+    "id": 441,
+    "parentId": 167,
+    "categoryName": "بررسي اثرات سيال حفاري - سنگ سازند",
+    "nsLevel": 5
+  },
+  {
+    "id": 442,
+    "parentId": 167,
+    "categoryName": "تكنولوژي نوين حفاري UBD",
+    "nsLevel": 5
+  },
+  {
+    "id": 443,
+    "parentId": 167,
+    "categoryName": "گير رشته هاي حفاري",
+    "nsLevel": 5
+  },
+  {
+    "id": 444,
+    "parentId": 167,
+    "categoryName": "خوردگي ادوات حفاري",
+    "nsLevel": 5
+  },
+  {
+    "id": 445,
+    "parentId": 167,
+    "categoryName": "کنترل هرزروي و جلوگيري از انسداد منافذ سازندهاي توليدي",
+    "nsLevel": 5
+  },
+  {
+    "id": 446,
+    "parentId": 168,
+    "categoryName": "مكانيزمهاي مكانيكي",
+    "nsLevel": 5
+  },
+  {
+    "id": 447,
+    "parentId": 168,
+    "categoryName": "مكانيزمهاي شيميايي",
+    "nsLevel": 5
+  },
+  {
+    "id": 448,
+    "parentId": 168,
+    "categoryName": "مكانيزمهاي بيولوژيكي",
+    "nsLevel": 5
+  },
+  {
+    "id": 449,
+    "parentId": 168,
+    "categoryName": "مكانيزمهاي حرارتي",
+    "nsLevel": 5
+  },
+  {
+    "id": 450,
+    "parentId": 168,
+    "categoryName": "آسيب سازند در فشار و حرارت بالا",
+    "nsLevel": 5
+  },
+  {
+    "id": 451,
+    "parentId": 168,
+    "categoryName": "جلوگيري و پيشگيري از آسيب سازندهاي توليدي",
+    "nsLevel": 5
+  },
+  {
+    "id": 452,
+    "parentId": 168,
+    "categoryName": "سيالات حفاري و تراوايي سنگهاي مخزن",
+    "nsLevel": 5
+  },
+  {
+    "id": 453,
+    "parentId": 168,
+    "categoryName": "ناسازگاري سيالات حفاري و خواص سنگ سازند توليدي",
+    "nsLevel": 5
+  },
+  {
+    "id": 454,
+    "parentId": 176,
+    "categoryName": "ساخت ،تهيه، کنترل کيفی و بهينه سازي مصرف افزايه ها ي نوين سيالات حفاري",
+    "nsLevel": 5
+  },
+  {
+    "id": 455,
+    "parentId": 176,
+    "categoryName": "طراحی، ساخت ،تهيه و بهينه سازي مصرف افزايه ها ي نوين گل و سيمانهاي حفاري",
+    "nsLevel": 5
+  },
+  {
+    "id": 456,
+    "parentId": 176,
+    "categoryName": "ساخت ،تهيه و بهينه سازي مصرف افزايه ها ي نوين سيالات تكميلي حفاري",
+    "nsLevel": 5
+  },
+  {
+    "id": 457,
+    "parentId": 176,
+    "categoryName": "تدوين روشهاي اساسي و آاربردي و استاندارد سازي آنترل آيفي افزايه ها در شرايط ميادين آشور",
+    "nsLevel": 5
+  },
+  {
+    "id": 458,
+    "parentId": 177,
+    "categoryName": "اسيدهاي معدني",
+    "nsLevel": 5
+  },
+  {
+    "id": 459,
+    "parentId": 177,
+    "categoryName": "اسيدهاي آلي",
+    "nsLevel": 5
+  },
+  {
+    "id": 460,
+    "parentId": 177,
+    "categoryName": "اسيدهاي آندآار",
+    "nsLevel": 5
+  },
+  {
+    "id": 461,
+    "parentId": 177,
+    "categoryName": "اسيدهاي هيبريدي",
+    "nsLevel": 5
+  },
+  {
+    "id": 462,
+    "parentId": 177,
+    "categoryName": "اسيدهاي ژله اي",
+    "nsLevel": 5
+  },
+  {
+    "id": 463,
+    "parentId": 177,
+    "categoryName": "پارامترهاي اسيدآاري و به حد اآثر رساندن آارايي عمليات اسيدآاري",
+    "nsLevel": 5
+  },
+  {
+    "id": 464,
+    "parentId": 177,
+    "categoryName": "شبيه سازي مناسب ترين روش اسيدآاري در چاههاي مخزن",
+    "nsLevel": 5
+  },
+  {
+    "id": 465,
+    "parentId": 158,
+    "categoryName": "عوامل موثر در انحراف پيش بينی توليد از مخازن نفت و گاز",
+    "nsLevel": 5
+  },
+  {
+    "id": 466,
+    "parentId": 158,
+    "categoryName": "روش هاي تثبيت دبی توليدی/تزریقی چاه ها",
+    "nsLevel": 5
+  },
+  {
+    "id": 467,
+    "parentId": 158,
+    "categoryName": "سيستم هاي نشت یابی تسهيلات چاهی و تاسسيسات",
+    "nsLevel": 5
+  },
+  {
+    "id": 468,
+    "parentId": 158,
+    "categoryName": "بررسي جریان درون چاهی در هنگام توليد",
+    "nsLevel": 5
+  },
+  {
+    "id": 469,
+    "parentId": 159,
+    "categoryName": "مديريت همزمان مخزن",
+    "nsLevel": 5
+  },
+  {
+    "id": 470,
+    "parentId": 159,
+    "categoryName": "پايش هاي ته چاهي",
+    "nsLevel": 5
+  },
+  {
+    "id": 471,
+    "parentId": 160,
+    "categoryName": "Production Well Logging",
+    "nsLevel": 5
+  },
+  {
+    "id": 472,
+    "parentId": 160,
+    "categoryName": "DST",
+    "nsLevel": 5
+  },
+  {
+    "id": 473,
+    "parentId": 160,
+    "categoryName": "PLD",
+    "nsLevel": 5
+  },
+  {
+    "id": 474,
+    "parentId": 161,
+    "categoryName": "Gas Lifting",
+    "nsLevel": 5
+  },
+  {
+    "id": 475,
+    "parentId": 161,
+    "categoryName": "Pumping Wells",
+    "nsLevel": 5
+  },
+  {
+    "id": 476,
+    "parentId": 161,
+    "categoryName": "Plunger Lift",
+    "nsLevel": 5
+  },
+  {
+    "id": 477,
+    "parentId": 161,
+    "categoryName": "Gas Well deliquefaction",
+    "nsLevel": 5
+  },
+  {
+    "id": 478,
+    "parentId": 166,
+    "categoryName": "هيدرات هاي گازي (درون چاهي)",
+    "nsLevel": 5
+  },
+  {
+    "id": 479,
+    "parentId": 166,
+    "categoryName": "بومي سازي و نوشتن نرم افزارهای مربوط به مدیریت توليد از چاه (نرم افزارهای چاه آزمایی)",
+    "nsLevel": 5
+  },
+  {
+    "id": 480,
+    "parentId": 166,
+    "categoryName": "افزایش بهره وری چاه - مشبك کاري",
+    "nsLevel": 5
+  },
+  {
+    "id": 481,
+    "parentId": 166,
+    "categoryName": "افزایش بهره وری چاه - ايجاد شكاف مصنوعی در چاه",
+    "nsLevel": 5
+  },
+  {
+    "id": 482,
+    "parentId": 166,
+    "categoryName": "افزایش بهره وری چاه - تحريك چاه",
+    "nsLevel": 5
+  },
+  {
+    "id": 483,
+    "parentId": 166,
+    "categoryName": "افزایش بهره وری چاه - مخازن گاز ميعاني",
+    "nsLevel": 5
+  },
+  {
+    "id": 484,
+    "parentId": 166,
+    "categoryName": "افزایش بهره وری چاه - مخازن گازي با نفوذ پذیری پایين",
+    "nsLevel": 5
+  },
+  {
+    "id": 485,
+    "parentId": 166,
+    "categoryName": "گردآوري و فرآوري داده هاي سيستم هاي توليد",
+    "nsLevel": 5
+  },
+  {
+    "id": 486,
+    "parentId": 167,
+    "categoryName": "رفع مشکلات توليد آب",
+    "nsLevel": 5
+  },
+  {
+    "id": 487,
+    "parentId": 167,
+    "categoryName": "جداسازی درون چاهی توليد آب",
+    "nsLevel": 5
+  },
+  {
+    "id": 488,
+    "parentId": 167,
+    "categoryName": "استفاده از مواد شيميایی",
+    "nsLevel": 5
+  },
+  {
+    "id": 489,
+    "parentId": 167,
+    "categoryName": "تزریق آبهای توليدی",
+    "nsLevel": 5
+  },
+  {
+    "id": 490,
+    "parentId": 167,
+    "categoryName": "رفع مشکلات توليد گاز",
+    "nsLevel": 5
+  },
+  {
+    "id": 491,
+    "parentId": 167,
+    "categoryName": "جداسازی درون چاهی توليدگاز",
+    "nsLevel": 5
+  },
+  {
+    "id": 492,
+    "parentId": 167,
+    "categoryName": "تزریق گازهای توليدی",
+    "nsLevel": 5
+  },
+  {
+    "id": 493,
+    "parentId": 167,
+    "categoryName": "مدیریت گازهای ترش",
+    "nsLevel": 5
+  },
+  {
+    "id": 494,
+    "parentId": 168,
+    "categoryName": "مدل سازی تشکيل رسوب آسفالتين",
+    "nsLevel": 5
+  },
+  {
+    "id": 495,
+    "parentId": 168,
+    "categoryName": "مدل سازی تشکيل رسوب آسفالتين",
+    "nsLevel": 5
+  },
+  {
+    "id": 496,
+    "parentId": 168,
+    "categoryName": "بررسی مکانيسم رسوب آسفالتين در محيطهای متخلخل",
+    "nsLevel": 5
+  },
+  {
+    "id": 497,
+    "parentId": 168,
+    "categoryName": "بررسی مکانيسم رسوب آسفالتين در ستون چاه",
+    "nsLevel": 5
+  },
+  {
+    "id": 498,
+    "parentId": 168,
+    "categoryName": "واکس",
+    "nsLevel": 5
+  },
+  {
+    "id": 499,
+    "parentId": 176,
+    "categoryName": "نمك زدايي",
+    "nsLevel": 5
+  },
+  {
+    "id": 500,
+    "parentId": 176,
+    "categoryName": "سولفيدد هيدروژن زدایی (شيرین سازی)",
+    "nsLevel": 5
+  },
+  {
+    "id": 501,
+    "parentId": 176,
+    "categoryName": "انتقال نفت های خام و پارافينی",
+    "nsLevel": 5
+  },
+  {
+    "id": 502,
+    "parentId": 176,
+    "categoryName": "ارتقاء کيفيت نفت خام",
+    "nsLevel": 5
+  },
+  {
+    "id": 503,
+    "parentId": 176,
+    "categoryName": "هيدارت های گازی (سر چاه)",
+    "nsLevel": 5
+  },
+  {
+    "id": 504,
+    "parentId": 176,
+    "categoryName": "جدا سازی چند فازی",
+    "nsLevel": 5
+  },
+  {
+    "id": 505,
+    "parentId": 176,
+    "categoryName": "جداسازی درون چاهی",
+    "nsLevel": 5
+  },
+  {
+    "id": 506,
+    "parentId": 176,
+    "categoryName": "جداسازی آربن دي اآسايد از هيدروژن سولفيد",
+    "nsLevel": 5
+  },
+  {
+    "id": 507,
+    "parentId": 176,
+    "categoryName": "فناوری های جذب سطحی",
+    "nsLevel": 5
+  },
+  {
+    "id": 508,
+    "parentId": 176,
+    "categoryName": "نم زدایی",
+    "nsLevel": 5
+  },
+  {
+    "id": 509,
+    "parentId": 176,
+    "categoryName": "نانو فيلتر و نانو غشاء",
+    "nsLevel": 5
+  },
+  {
+    "id": 510,
+    "parentId": 160,
+    "categoryName": "تزريق گازهاي بي اثر",
+    "nsLevel": 5
+  },
+  {
+    "id": 511,
+    "parentId": 160,
+    "categoryName": "تزريق دي اکسيد کربن به صورت غيرامتزاجي",
+    "nsLevel": 5
+  },
+  {
+    "id": 512,
+    "parentId": 160,
+    "categoryName": "تزريق گازهاي هيدروکربوري",
+    "nsLevel": 5
+  },
+  {
+    "id": 513,
+    "parentId": 161,
+    "categoryName": "سيلابزني با دي اکسيد کربن",
+    "nsLevel": 5
+  },
+  {
+    "id": 514,
+    "parentId": 161,
+    "categoryName": "سيلابزني با نيتروژن",
+    "nsLevel": 5
+  },
+  {
+    "id": 515,
+    "parentId": 161,
+    "categoryName": "فرآيند تزريق امتزاجي اسلاگ",
+    "nsLevel": 5
+  },
+  {
+    "id": 516,
+    "parentId": 161,
+    "categoryName": "سيلابزني با گاز هيدروکربوري",
+    "nsLevel": 5
+  },
+  {
+    "id": 517,
+    "parentId": 166,
+    "categoryName": "سيلابزني با پليمر",
+    "nsLevel": 5
+  },
+  {
+    "id": 518,
+    "parentId": 166,
+    "categoryName": "سيلابزني توسط سورفكتانت",
+    "nsLevel": 5
+  },
+  {
+    "id": 519,
+    "parentId": 166,
+    "categoryName": "سيلابزني با حلال ها",
+    "nsLevel": 5
+  },
+  {
+    "id": 520,
+    "parentId": 167,
+    "categoryName": "تزريق بخار",
+    "nsLevel": 5
+  },
+  {
+    "id": 521,
+    "parentId": 167,
+    "categoryName": "تزريق اب گرم",
+    "nsLevel": 5
+  },
+  {
+    "id": 522,
+    "parentId": 167,
+    "categoryName": "احتراق درجا",
+    "nsLevel": 5
+  },
+  {
+    "id": 523,
+    "parentId": 176,
+    "categoryName": "تزريق متناوب آب و گاز",
+    "nsLevel": 5
+  },
+  {
+    "id": 524,
+    "parentId": 176,
+    "categoryName": "تزريق متناوب محلول پليمر و گاز",
+    "nsLevel": 5
+  }
+]

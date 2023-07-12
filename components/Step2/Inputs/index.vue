@@ -11,6 +11,7 @@
   </div>
   </div>
 <Step2InputsTags />
+<Step2InputsEditor />
 </div>
 
 </template>

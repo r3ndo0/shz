@@ -13,7 +13,7 @@
 @font-face {
   font-family: sansx;
   font-weight: 400;
-  src: local("sansx"), url("~/assets/medium.ttf") format("truetype");
+  src: local("sansx"), url("~/assets/num.ttf") format("truetype");
 }
 
 /* Chrome, Safari, Edge, Opera */

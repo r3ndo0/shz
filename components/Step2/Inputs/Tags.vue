@@ -23,8 +23,8 @@
       @keyup.enter="handleInputConfirm"
       @blur="handleInputConfirm"
       />
-      <el-button v-else class="button-new-tag ml-1" size="small" @click="showInput">
-        افزودن تگ جدید
+      <el-button v-else class="button-new-tag  ml-1" size="small" @click="showInput">
+        افزودن مورد جدید
     </el-button>
 </div>
 </div>
@@ -71,6 +71,9 @@
     border-radius:9999px;
     
 }
+.el-button--small {
+  border-radius: 999px;
 
+}
 
 </style>

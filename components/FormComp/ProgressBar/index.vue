@@ -1,10 +1,12 @@
 <script setup >
+
 function toArabicNumeral(en) {
   return ("" + en).replace(/[0-9]/g, function (t) {
     return "٠١٢٣٤٥٦٧٨٩".slice(+t, +t + 1);
   });
 }
 const stepIdx = inject('step')
+
 
 const completedClass = (n) => {
   if (stepIdx.value >= n) {
@@ -23,19 +25,19 @@ const completedClass = (n) => {
         <div class="step-name">شروع</div>
       </div>
       <div class="stepper-item " :class="completedClass(2)">
-        <div class="step-counter">{{ toArabicNumeral("2") }}</div>
+        <div class="step-counter">2</div>
         <div class="step-name font-bold text-[#7A7A7A]">اطلاعات اصلی</div>
       </div>
       <div class="stepper-item active" :class="completedClass(3)">
-        <div class="step-counter">{{ toArabicNumeral("3") }}</div>
+        <div class="step-counter">3</div>
         <div class="step-name font-bold text-[#7A7A7A]">جزییات</div>
       </div>
       <div class="stepper-item" :class="completedClass(4)">
-        <div class="step-counter">{{ toArabicNumeral("4") }}</div>
+        <div class="step-counter">4</div>
         <div class="step-name font-bold text-[#7A7A7A]">تایید اطلاعات</div>
       </div>
       <div class="stepper-item" :class="completedClass(5)">
-        <div class="step-counter">{{ toArabicNumeral("5") }}</div>
+        <div class="step-counter">5</div>
         <div class="step-name font-bold text-[#7A7A7A]">دریافت گواهی</div>
       </div>
     </div>
