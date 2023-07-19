@@ -2,11 +2,11 @@
 <div class="w-full">
   <div class=" ">
 <div class="flex w-full justify-center">
-  <Step2InputsInput :required="true" label="عنوان تقاضا (فارسی)" />   
-    <Step2InputsInput :required="true" label="عنوان تقاضا (انگلیسی)" /> 
+  <Step2InputsInput name='faTitle' :required="true" label="عنوان تقاضا (فارسی)" />   
+    <Step2InputsInput name="enTitle" :required="true" label="عنوان تقاضا (انگلیسی)" /> 
 </div>  
   <div class="flex">
-    <Step2InputsBudget :required="true" label="بودجه مورد نیاز" />  
+    <Step2InputsBudget name="budget" :required="true" label="بودجه مورد نیاز" />  
     <Step2InputsSlider />
   </div>
   </div>

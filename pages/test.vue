@@ -1,23 +1,18 @@
 <template>
 
 
-  <div dir="ltr" class="w-full p-12">
-    <div class="w-full  flex justify-end">
+  <div dir="ltr" class="w-full   flex justify-end p-12">
+    <ClientOnly >
 
-      <ClientOnly >
-        <Loader  v-if="loading || pending"/>
-        
-        <el-tree
-        v-else
-        :data="data"
-        class="w-full overflow-y-scroll min-h-[500px] max-h-screen"
-        show-checkbox
-        node-key="id"
-        :props="defaultProps"
-        :render-content="renderContent"
-        />
-      </ClientOnly>
-    </div>
+    <el-tree
+    :data="data"
+    class="w-full bg-rose-400"
+    show-checkbox
+    node-key="id"
+    :props="defaultProps"
+    :render-content="renderContent"
+  />
+  </ClientOnly>
 </div>
 
   </template>
@@ -40,7 +35,7 @@ const renderContent = (h, { data }) => {
     'span',
     {
       style: {
-        color: '#1f2937',
+        color: '#626AEF',
       },
     },
     data.value.label
@@ -82,33 +77,10 @@ return roots;
 
 
 
+
 </script>
 
 
 <style scoped>
-.el-tree {
-  background-color:  transparent;
-
-}
-/* width */
-::-webkit-scrollbar {
-  width: 10px;
-}
-
-/* Track */
-::-webkit-scrollbar-track {
-  background: transparent; 
-}
- 
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: #f3d361; 
-}
-
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-  background: #FED235; 
-}
-
 
 </style>

@@ -9,11 +9,9 @@ export const stepOneSchema = yup.object({
 
 
 export const stepTwoSchema = yup.object({
-    reqTitle : yup.string().required(),
-    TRL_range:yup.number().required(),
-    req_budget:yup.number().required(),
-    tags:yup.array().of(yup.string()),
-    summary : yup.string().required()
+    enTitle : yup.string().required('لطفا عنوان انگلیسی را وارد کنید').matches(/^[a-zA-Z\s]+$/, "لطفا از حروف انگلیسی استفاده کنید"),
+    faTitle:yup.string().required('لطفا عنوان فارسی را وارد کنید').matches(/^[\u0600-\u06FF\s]+$/, "لطفا از حروف فارسی استفاده کنید"),
+    budget:yup.string().required('لطفا بودجه مورد نظر را وارد کنید'),
 })
 
 
